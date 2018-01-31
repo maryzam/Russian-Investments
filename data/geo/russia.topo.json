@@ -10,7 +10,8 @@
           "properties": {
             "NAME_1": "Karachay-Cherkess",
             "HASC_1": "RU.KC",
-            "ISO_2": "KC"
+            "ISO_2": "KC",
+            "OKATO": "91000000"
           },
           "arcs": [ [ 0, 1, 2, 3 ] ]
         },
@@ -19,7 +20,8 @@
           "properties": {
             "NAME_1": "Karelia",
             "HASC_1": "RU.KI",
-            "ISO_2": "KR"
+            "ISO_2": "KR",
+            "OKATO": "86000000"
           },
           "arcs": [
             [ [ 4 ] ],
@@ -41,7 +43,8 @@
           "properties": {
             "NAME_1": "Kemerovo",
             "HASC_1": "RU.KE",
-            "ISO_2": "KEM"
+            "ISO_2": "KEM",
+            "OKATO": "32000000"
           },
           "arcs": [ [ 24, 25, 26, 27, 28, 29 ] ]
         },
@@ -50,7 +53,8 @@
           "properties": {
             "NAME_1": "Khabarovsk",
             "HASC_1": "RU.KH",
-            "ISO_2": "KHA"
+            "ISO_2": "KHA",
+            "OKATO": "8000000"
           },
           "arcs": [
             [ [ 30 ] ],
@@ -69,7 +73,8 @@
           "properties": {
             "NAME_1": "Khakass",
             "HASC_1": "RU.KK",
-            "ISO_2": "KK"
+            "ISO_2": "KK",
+            "OKATO":  "95000000"
           },
           "arcs": [
             [ [ 45 ] ],
@@ -81,7 +86,8 @@
           "properties": {
             "NAME_1": "Khanty-Mansiy",
             "HASC_1": "RU.KM",
-            "ISO_2": "KHM"
+            "ISO_2": "KHM",
+            "OKATO": "71100000"
           },
           "arcs": [ [ 49, 50, 51, 52, 53, 54 ] ]
         },
@@ -90,7 +96,8 @@
           "properties": {
             "NAME_1": "Adygey",
             "HASC_1": "RU.AD",
-            "ISO_2": "AD"
+            "ISO_2": "AD",
+            "OKATO":  "79000000" 
           },
           "arcs": [ [ 55 ] ]
         },
@@ -99,7 +106,8 @@
           "properties": {
             "NAME_1": "Altay",
             "HASC_1": "RU.AL",
-            "ISO_2": "ALT"
+            "ISO_2": "ALT",
+            "OKATO":  "84000000" 
           },
           "arcs": [ [ 56, 57, 58, -27 ] ]
         },
@@ -108,7 +116,8 @@
           "properties": {
             "NAME_1": "Amur",
             "HASC_1": "RU.AM",
-            "ISO_2": "AMU"
+            "ISO_2": "AMU",
+            "OKATO": "10000000" 
           },
           "arcs": [ [ -44, 59, 60, 61, 62 ] ]
         },
@@ -117,7 +126,8 @@
           "properties": {
             "NAME_1": "Arkhangel'sk",
             "HASC_1": "RU.AR",
-            "ISO_2": "ARK"
+            "ISO_2": "ARK",
+            "OKATO":  "11000000" 
           },
           "arcs": [
             [ [ 63 ] ],
@@ -206,7 +216,8 @@
           "properties": {
             "NAME_1": "Astrakhan'",
             "HASC_1": "RU.AS",
-            "ISO_2": "AST"
+            "ISO_2": "AST",
+            "OKATO":  "12000000" 
           },
           "arcs": [ [ 147, 148, 149 ] ]
         },
@@ -215,7 +226,8 @@
           "properties": {
             "NAME_1": "Bashkortostan",
             "HASC_1": "RU.BK",
-            "ISO_2": "BA"
+            "ISO_2": "BA",
+            "OKATO":  "80000000" 
           },
           "arcs": [ [ 150, 151, 152, 153, 154, 155 ] ]
         },
@@ -224,7 +236,8 @@
           "properties": {
             "NAME_1": "Belgorod",
             "HASC_1": "RU.BL",
-            "ISO_2": "BEL"
+            "ISO_2": "BEL",
+            "OKATO":  "14000000" 
           },
           "arcs": [ [ 156, 157, 158 ] ]
         },
@@ -233,7 +246,8 @@
           "properties": {
             "NAME_1": "Bryansk",
             "HASC_1": "RU.BR",
-            "ISO_2": "BRY"
+            "ISO_2": "BRY",
+            "OKATO":  "15000000" 
           },
           "arcs": [ [ 159, 160, 161, 162, 163 ] ]
         },
@@ -242,7 +256,8 @@
           "properties": {
             "NAME_1": "Buryat",
             "HASC_1": "RU.BU",
-            "ISO_2": "BU"
+            "ISO_2": "BU",
+            "OKATO": "81000000"  
           },
           "arcs": [ [ 164, 165, 166, 167, 168, 169 ] ]
         },
@@ -251,7 +266,8 @@
           "properties": {
             "NAME_1": "Chechnya",
             "HASC_1": "RU.CN",
-            "ISO_2": "CE"
+            "ISO_2": "CE",
+            "OKATO": "96000000"
           },
           "arcs": [ [ 170, 171, 172, 173, 174 ] ]
         },
@@ -260,7 +276,8 @@
           "properties": {
             "NAME_1": "Chelyabinsk",
             "HASC_1": "RU.CL",
-            "ISO_2": "CHE"
+            "ISO_2": "CHE",
+            "OKATO":  "75000000" 
           },
           "arcs": [ [ 175, 176, 177, -152, 178 ] ]
         },
@@ -269,7 +286,8 @@
           "properties": {
             "NAME_1": "Chukot",
             "HASC_1": "RU.CK",
-            "ISO_2": "CHU"
+            "ISO_2": "CHU",
+            "OKATO":  "77000000" 
           },
           "arcs": [
             [ [ 179 ] ],
@@ -292,7 +310,8 @@
           "properties": {
             "NAME_1": "Chuvash",
             "HASC_1": "RU.CV",
-            "ISO_2": "CU"
+            "ISO_2": "CU",
+            "OKATO":  "97000000" 
           },
           "arcs": [ [ 195, 196, 197, 198, 199 ] ]
         },
@@ -301,7 +320,8 @@
           "properties": {
             "NAME_1": "Saint Petersburg City",
             "HASC_1": "RU.SP",
-            "ISO_2": "SPE"
+            "ISO_2": "SPE",
+            "OKATO":  "40000000" 
           },
           "arcs": [ [ [ 200, 201 ] ] ]
         },
@@ -310,7 +330,8 @@
           "properties": {
             "NAME_1": "Dagestan",
             "HASC_1": "RU.DA",
-            "ISO_2": "DA"
+            "ISO_2": "DA",
+            "OKATO":  "82000000" 
           },
           "arcs": [ [ 202, -175, 203, 204 ] ]
         },
@@ -319,7 +340,8 @@
           "properties": {
             "NAME_1": "Gorno-Altay",
             "HASC_1": "RU.GA",
-            "ISO_2": "AL"
+            "ISO_2": "AL",
+            "OKATO":  "84000000" 
           },
           "arcs": [ [ -26, -48, 205, 206, -57 ] ]
         },
@@ -328,7 +350,8 @@
           "properties": {
             "NAME_1": "Ingush",
             "HASC_1": "RU.IN",
-            "ISO_2": "IN"
+            "ISO_2": "IN",
+            "OKATO":  "26000000" 
           },
           "arcs": [ [ -172, 207, 208 ] ]
         },
@@ -337,7 +360,8 @@
           "properties": {
             "NAME_1": "Ivanovo",
             "HASC_1": "RU.IV",
-            "ISO_2": "IVA"
+            "ISO_2": "IVA",
+            "OKATO": "24000000" 
           },
           "arcs": [ [ 209, 210, 211, 212 ] ]
         },
@@ -346,7 +370,8 @@
           "properties": {
             "NAME_1": "Kabardin-Balkar",
             "HASC_1": "RU.KB",
-            "ISO_2": "KB"
+            "ISO_2": "KB",
+            "OKATO":  "83000000" 
           },
           "arcs": [ [ 213, 214, -1, 215 ] ]
         },
@@ -355,7 +380,8 @@
           "properties": {
             "NAME_1": "Kaliningrad",
             "HASC_1": "RU.KN",
-            "ISO_2": "KGD"
+            "ISO_2": "KGD",
+            "OKATO":  "27000000" 
           },
           "arcs": [
             [ [ 216 ] ],
@@ -367,7 +393,8 @@
           "properties": {
             "NAME_1": "Kalmyk",
             "HASC_1": "RU.KL",
-            "ISO_2": "KL"
+            "ISO_2": "KL",
+            "OKATO":  "85000000" 
           },
           "arcs": [ [ -148, 218, -205, 219, 220, 221 ] ]
         },
@@ -376,7 +403,8 @@
           "properties": {
             "NAME_1": "Kaluga",
             "HASC_1": "RU.KG",
-            "ISO_2": "KLU"
+            "ISO_2": "KLU",
+            "OKATO":  "29000000" 
           },
           "arcs": [ [ 222, 223, -164, 224, 225 ] ]
         },
@@ -385,7 +413,8 @@
           "properties": {
             "NAME_1": "Kirov",
             "HASC_1": "RU.KV",
-            "ISO_2": "KIR"
+            "ISO_2": "KIR",
+            "OKATO":  "33000000" 
           },
           "arcs": [ [ 226, 227, 228, 229, 230, 231, 232, 233, -77 ] ]
         },
@@ -394,7 +423,8 @@
           "properties": {
             "NAME_1": "Komi",
             "HASC_1": "RU.KO",
-            "ISO_2": "KO"
+            "ISO_2": "KO",
+            "OKATO":  "87000000" 
           },
           "arcs": [ [ 234, -54, 235, 236, -227, -76, 237 ] ]
         },
@@ -403,7 +433,8 @@
           "properties": {
             "NAME_1": "Kostroma",
             "HASC_1": "RU.KT",
-            "ISO_2": "KOS"
+            "ISO_2": "KOS",
+            "OKATO":  "34000000" 
           },
           "arcs": [ [ -233, 238, -213, 239, 240 ] ]
         },
@@ -412,7 +443,8 @@
           "properties": {
             "NAME_1": "Krasnodar",
             "HASC_1": "RU.KD",
-            "ISO_2": "KDA"
+            "ISO_2": "KDA",
+            "OKATO":  "3000000" 
           },
           "arcs": [
             [
@@ -426,7 +458,8 @@
           "properties": {
             "NAME_1": "Kurgan",
             "HASC_1": "RU.KU",
-            "ISO_2": "KGN"
+            "ISO_2": "KGN",
+            "OKATO": "37000000"   
           },
           "arcs": [ [ 244, 245, -176, 246 ] ]
         },
@@ -435,7 +468,8 @@
           "properties": {
             "NAME_1": "Kursk",
             "HASC_1": "RU.KS",
-            "ISO_2": "KRS"
+            "ISO_2": "KRS",
+            "OKATO":  "38000000" 
           },
           "arcs": [ [ 247, 248, -159, 249, -161, 250 ] ]
         },
@@ -444,7 +478,8 @@
           "properties": {
             "NAME_1": "Leningrad",
             "HASC_1": "RU.LN",
-            "ISO_2": "LEN"
+            "ISO_2": "LEN",
+            "OKATO":  "41000000" 
           },
           "arcs": [
             [ [ 251 ] ],
@@ -463,7 +498,8 @@
           "properties": {
             "NAME_1": "Lipetsk",
             "HASC_1": "RU.LP",
-            "ISO_2": "LIP"
+            "ISO_2": "LIP",
+            "OKATO":  "42000000" 
           },
           "arcs": [ [ 265, 266, -248, 267, 268, 269 ] ]
         },
@@ -472,7 +508,8 @@
           "properties": {
             "NAME_1": "Magadan",
             "HASC_1": "RU.MG",
-            "ISO_2": "MAG"
+            "ISO_2": "MAG",
+            "OKATO":  "44000000" 
           },
           "arcs": [
             [ [ 270 ] ],
@@ -486,7 +523,8 @@
           "properties": {
             "NAME_1": "Mariy-El",
             "HASC_1": "RU.ME",
-            "ISO_2": "ME"
+            "ISO_2": "ME",
+            "OKATO":  "88000000" 
           },
           "arcs": [ [ 276, -200, 277, -231 ] ]
         },
@@ -495,7 +533,8 @@
           "properties": {
             "NAME_1": "Mordovia",
             "HASC_1": "RU.MR",
-            "ISO_2": "MO"
+            "ISO_2": "MO",
+            "OKATO":  "89000000" 
           },
           "arcs": [ [ -198, 278, 279, 280, 281 ] ]
         },
@@ -504,7 +543,8 @@
           "properties": {
             "NAME_1": "Moskva",
             "HASC_1": "RU.MS",
-            "ISO_2": "MOS"
+            "ISO_2": "MOS",
+            "OKATO":  "46000000" 
           },
           "arcs": [ [ 282, 283, 284, 285, -226, 286, 287 ] ]
         },
@@ -513,7 +553,8 @@
           "properties": {
             "NAME_1": "Murmansk",
             "HASC_1": "RU.MM",
-            "ISO_2": "MUR"
+            "ISO_2": "MUR",
+            "OKATO": "47000000" 
           },
           "arcs": [
             [ [ 288 ] ],
@@ -527,7 +568,8 @@
           "properties": {
             "NAME_1": "Nenets",
             "HASC_1": "RU.NN",
-            "ISO_2": "NEN"
+            "ISO_2": "NEN",
+            "OKATO": "11100000000"
           },
           "arcs": [
             [ [ 293 ] ],
@@ -550,7 +592,8 @@
           "properties": {
             "NAME_1": "Nizhegorod",
             "HASC_1": "RU.NZ",
-            "ISO_2": "NIZ"
+            "ISO_2": "NIZ",
+            "OKATO":  "22000000" 
           },
           "arcs": [ [ -232, -278, -199, -282, 309, 310, -210, -239 ] ]
         },
@@ -559,7 +602,8 @@
           "properties": {
             "NAME_1": "North Ossetia",
             "HASC_1": "RU.NO",
-            "ISO_2": "SE"
+            "ISO_2": "SE",
+            "OKATO":  "90000000" 
           },
           "arcs": [ [ -173, -209, 311, -214, 312 ] ]
         },
@@ -568,7 +612,8 @@
           "properties": {
             "NAME_1": "Novgorod",
             "HASC_1": "RU.NG",
-            "ISO_2": "NGR"
+            "ISO_2": "NGR",
+            "OKATO":  "49000000" 
           },
           "arcs": [ [ 313, 314, 315, -262 ] ]
         },
@@ -577,7 +622,8 @@
           "properties": {
             "NAME_1": "Novosibirsk",
             "HASC_1": "RU.NS",
-            "ISO_2": "NVS"
+            "ISO_2": "NVS",
+            "OKATO":  "50000000" 
           },
           "arcs": [ [ -28, -59, 316, 317, 318 ] ]
         },
@@ -586,7 +632,8 @@
           "properties": {
             "NAME_1": "Omsk",
             "HASC_1": "RU.OM",
-            "ISO_2": "OMS"
+            "ISO_2": "OMS",
+            "OKATO":  "52000000" 
           },
           "arcs": [ [ -318, 319, 320, 321 ] ]
         },
@@ -595,7 +642,8 @@
           "properties": {
             "NAME_1": "Orel",
             "HASC_1": "RU.OL",
-            "ISO_2": "ORL"
+            "ISO_2": "ORL",
+            "OKATO":  "54000000" 
           },
           "arcs": [ [ -268, -251, -160, -224, 322 ] ]
         },
@@ -604,7 +652,8 @@
           "properties": {
             "NAME_1": "Orenburg",
             "HASC_1": "RU.OB",
-            "ISO_2": "ORE"
+            "ISO_2": "ORE",
+            "OKATO":  "53000000" 
           },
           "arcs": [ [ -153, -178, 323, 324, 325, 326 ] ]
         },
@@ -613,7 +662,8 @@
           "properties": {
             "NAME_1": "Penza",
             "HASC_1": "RU.PZ",
-            "ISO_2": "PNZ"
+            "ISO_2": "PNZ",
+            "OKATO":  "56000000" 
           },
           "arcs": [ [ 327, 328, 329, 330, -280 ] ]
         },
@@ -622,7 +672,8 @@
           "properties": {
             "NAME_1": "Primor'ye",
             "HASC_1": "RU.PR",
-            "ISO_2": "PRI"
+            "ISO_2": "PRI",
+            "OKATO":  "5000000" 
           },
           "arcs": [
             [ [ 331 ] ],
@@ -637,7 +688,8 @@
           "properties": {
             "NAME_1": "Pskov",
             "HASC_1": "RU.PS",
-            "ISO_2": "PSK"
+            "ISO_2": "PSK",
+            "OKATO":  "58000000" 
           },
           "arcs": [ [ -316, 336, 337, 338, -263 ] ]
         },
@@ -646,7 +698,8 @@
           "properties": {
             "NAME_1": "Rostov",
             "HASC_1": "RU.RO",
-            "ISO_2": "ROS"
+            "ISO_2": "ROS",
+            "OKATO":  "60000000" 
           },
           "arcs": [ [ [ -221, 339, -242, 340, 341, 342 ] ] ]
         },
@@ -655,7 +708,8 @@
           "properties": {
             "NAME_1": "Ryazan'",
             "HASC_1": "RU.RZ",
-            "ISO_2": "RYA"
+            "ISO_2": "RYA",
+            "OKATO":  "61000000" 
           },
           "arcs": [ [ -310, -281, -331, 343, -270, 344, -285, 345 ] ]
         },
@@ -664,7 +718,8 @@
           "properties": {
             "NAME_1": "Sakha",
             "HASC_1": "RU.SK",
-            "ISO_2": "SA"
+            "ISO_2": "SA",
+            "OKATO":  "98000000" 
           },
           "arcs": [
             [ [ 346 ] ],
@@ -735,7 +790,8 @@
           "properties": {
             "NAME_1": "Sakhalin",
             "HASC_1": "RU.SL",
-            "ISO_2": "SAK"
+            "ISO_2": "SAK",
+            "OKATO":  "64000000" 
           },
           "arcs": [
             [ [ 410 ] ],
@@ -776,7 +832,8 @@
           "properties": {
             "NAME_1": "Samara",
             "HASC_1": "RU.SA",
-            "ISO_2": "SAM"
+            "ISO_2": "SAM",
+            "OKATO":  "36000000" 
           },
           "arcs": [ [ -326, 441, 442, 443 ] ]
         },
@@ -785,7 +842,8 @@
           "properties": {
             "NAME_1": "Saratov",
             "HASC_1": "RU.SR",
-            "ISO_2": "SAR"
+            "ISO_2": "SAR",
+            "OKATO":  "63000000" 
           },
           "arcs": [ [ -325, 444, 445, 446, 447, -329, 448, -442 ] ]
         },
@@ -794,7 +852,8 @@
           "properties": {
             "NAME_1": "Smolensk",
             "HASC_1": "RU.SM",
-            "ISO_2": "SMO"
+            "ISO_2": "SMO",
+            "OKATO":  "66000000" 
           },
           "arcs": [ [ -287, -225, -163, 449, -338, 450 ] ]
         },
@@ -803,7 +862,8 @@
           "properties": {
             "NAME_1": "Stavropol'",
             "HASC_1": "RU.ST",
-            "ISO_2": "STA"
+            "ISO_2": "STA",
+            "OKATO":  "7000000" 
           },
           "arcs": [ [ -204, -174, -313, -216, -4, -243, -340, -220 ] ]
         },
@@ -812,7 +872,8 @@
           "properties": {
             "NAME_1": "Sverdlovsk",
             "HASC_1": "RU.SV",
-            "ISO_2": "SVE"
+            "ISO_2": "SVE",
+            "OKATO":  "65000000" 
           },
           "arcs": [ [ 451, -247, -179, -151, 452, -236, -53 ] ]
         },
@@ -821,7 +882,8 @@
           "properties": {
             "NAME_1": "Tambov",
             "HASC_1": "RU.TB",
-            "ISO_2": "TAM"
+            "ISO_2": "TAM",
+            "OKATO":  "68000000" 
           },
           "arcs": [ [ -330, -448, 453, -266, -344 ] ]
         },
@@ -830,7 +892,8 @@
           "properties": {
             "NAME_1": "Tatarstan",
             "HASC_1": "RU.TT",
-            "ISO_2": "TA"
+            "ISO_2": "TA",
+            "OKATO":  "92000000" 
           },
           "arcs": [ [ 454, -154, -327, -444, 455, -196, -277, -230 ] ]
         },
@@ -839,7 +902,8 @@
           "properties": {
             "NAME_1": "Tomsk",
             "HASC_1": "RU.TO",
-            "ISO_2": "TOM"
+            "ISO_2": "TOM",
+            "OKATO":  "69000000" 
           },
           "arcs": [ [ 456, -29, -319, -322, 457, -51 ] ]
         },
@@ -848,7 +912,8 @@
           "properties": {
             "NAME_1": "Tula",
             "HASC_1": "RU.TL",
-            "ISO_2": "TUL"
+            "ISO_2": "TUL",
+            "OKATO":  "70000000" 
           },
           "arcs": [ [ -345, -269, -323, -223, -286 ] ]
         },
@@ -857,7 +922,8 @@
           "properties": {
             "NAME_1": "Tuva",
             "HASC_1": "RU.TU",
-            "ISO_2": "TY"
+            "ISO_2": "TY",
+            "OKATO":  "93000000" 
           },
           "arcs": [ [ -169, 458, -206, -47, 459, 460 ] ]
         },
@@ -866,7 +932,8 @@
           "properties": {
             "NAME_1": "Tver'",
             "HASC_1": "RU.TV",
-            "ISO_2": "TVE"
+            "ISO_2": "TVE",
+            "OKATO":  "28000000" 
           },
           "arcs": [ [ 461, -288, -451, -337, -315, 462 ] ]
         },
@@ -875,7 +942,8 @@
           "properties": {
             "NAME_1": "Tyumen'",
             "HASC_1": "RU.TY",
-            "ISO_2": "TYU"
+            "ISO_2": "TYU",
+            "OKATO":  "71000000" 
           },
           "arcs": [ [ -458, -321, 463, -245, -452, -52 ] ]
         },
@@ -884,7 +952,8 @@
           "properties": {
             "NAME_1": "Udmurt",
             "HASC_1": "RU.UD",
-            "ISO_2": "UD"
+            "ISO_2": "UD",
+            "OKATO": "94000000" 
           },
           "arcs": [ [ 464, -155, -455, -229 ] ]
         },
@@ -893,7 +962,8 @@
           "properties": {
             "NAME_1": "Ul'yanovsk",
             "HASC_1": "RU.UL",
-            "ISO_2": "ULY"
+            "ISO_2": "ULY",
+            "OKATO":  "73000000" 
           },
           "arcs": [ [ -443, -449, -328, -279, -197, -456 ] ]
         },
@@ -902,7 +972,8 @@
           "properties": {
             "NAME_1": "Vladimir",
             "HASC_1": "RU.VL",
-            "ISO_2": "VLA"
+            "ISO_2": "VLA",
+            "OKATO":  "17000000" 
           },
           "arcs": [ [ -311, -346, -284, 465, -211 ] ]
         },
@@ -911,7 +982,8 @@
           "properties": {
             "NAME_1": "Volgograd",
             "HASC_1": "RU.VG",
-            "ISO_2": "VGG"
+            "ISO_2": "VGG",
+            "OKATO":  "18000000" 
           },
           "arcs": [ [ 466, -149, -222, -343, 467, -446 ] ]
         },
@@ -920,7 +992,8 @@
           "properties": {
             "NAME_1": "Vologda",
             "HASC_1": "RU.VO",
-            "ISO_2": "VLG"
+            "ISO_2": "VLG",
+            "OKATO":  "19000000" 
           },
           "arcs": [ [ -78, -234, -241, 468, -463, -314, -261, -20 ] ]
         },
@@ -929,7 +1002,8 @@
           "properties": {
             "NAME_1": "Voronezh",
             "HASC_1": "RU.VR",
-            "ISO_2": "VOR"
+            "ISO_2": "VOR",
+            "OKATO":  "20000000" 
           },
           "arcs": [ [ -454, -447, -468, -342, 469, -157, -249, -267 ] ]
         },
@@ -938,7 +1012,8 @@
           "properties": {
             "NAME_1": "Yamal-Nenets",
             "HASC_1": "RU.YN",
-            "ISO_2": "YAN"
+            "ISO_2": "YAN",
+            "OKATO": "71140000000"
           },
           "arcs": [
             [ [ 470 ] ],
@@ -980,7 +1055,8 @@
           "properties": {
             "NAME_1": "Yaroslavl'",
             "HASC_1": "RU.YS",
-            "ISO_2": "YAR"
+            "ISO_2": "YAR",
+            "OKATO":  "78000000" 
           },
           "arcs": [ [ -240, -212, -466, -283, -462, -469 ] ]
         },
@@ -989,7 +1065,8 @@
           "properties": {
             "NAME_1": "Yevrey",
             "HASC_1": "RU.YV",
-            "ISO_2": "YEV"
+            "ISO_2": "YEV",
+            "OKATO":  "99000000" 
           },
           "arcs": [ [ 504, -60, -43 ] ]
         },
@@ -998,7 +1075,8 @@
           "properties": {
             "NAME_1": "Krasnoyarsk",
             "HASC_1": "RU.KX",
-            "ISO_2": "KYA"
+            "ISO_2": "KYA",
+            "OKATO":  "4000000" 
           },
           "arcs": [
             [ [ 510 ] ],
@@ -1145,7 +1223,8 @@
           "properties": {
             "NAME_1": "Zabaykal'ye",
             "HASC_1": "RU.CT",
-            "ISO_2": "ZAB"
+            "ISO_2": "ZAB",
+            "OKATO": "76000000"
           },
           "arcs": [
             [ [ -167, 647 ] ],
@@ -1157,7 +1236,8 @@
           "properties": {
             "NAME_1": "Irkutsk",
             "HASC_1": "RU.IR",
-            "ISO_2": "IRK"
+            "ISO_2": "IRK",
+            "OKATO":  "25000000" 
           },
           "arcs": [ [ -650, -170, -461, -625, -399 ] ]
         },
@@ -1166,7 +1246,8 @@
           "properties": {
             "NAME_1": "Perm'",
             "HASC_1": "RU.PE",
-            "ISO_2": "PER"
+            "ISO_2": "PER",
+            "OKATO":  "57000000" 
           },
           "arcs": [ [ -453, -156, -465, -228, -237 ] ]
         },
@@ -1175,7 +1256,8 @@
           "properties": {
             "NAME_1": "Kamchatka",
             "HASC_1": "RU.KA",
-            "ISO_2": "KAM"
+            "ISO_2": "KAM",
+            "OKATO":  "30000000" 
           },
           "arcs": [
             [ [ -274, -188, 650, 651 ] ],
@@ -1191,7 +1273,8 @@
           "properties": {
             "NAME_1": "Moscow City",
             "HASC_1": "RU.MV",
-            "ISO_2": "MOW"
+            "ISO_2": "MOW",
+            "OKATO":  "45000000" 
           },
           "arcs": [
             [ [ 657 ] ],
