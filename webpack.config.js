@@ -15,7 +15,7 @@ module.exports = {
     resolve: {
         extensions: [".js", ".jsx", ".json"]
     },
-    devtool: 'inline-source-map',
+    devtool: "inline-source-map",
     devServer: {
         contentBase: ".",
         host: "localhost",

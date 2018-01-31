@@ -34,3 +34,8 @@ section {
     overflow: auto; 
 }
 
+.regions path {
+    stroke: tomato;
+    fill: tomato;
+    fill-opacity: 0.5;
+}

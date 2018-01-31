@@ -20,6 +20,8 @@
   },
   "dependencies": {
     "d3": "4.12.2",
+    "d3-queue": "3.0.2",
+    "d3-geo": "1.9.1",
     "topojson": "3.0.2"
   },
   "devDependencies": {
