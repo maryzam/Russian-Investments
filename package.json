@@ -19,7 +19,8 @@
     "url": "https://github.com/maryzam/Russian-investments"
   },
   "dependencies": {
-    "d3": "4.12.2"
+    "d3": "4.12.2",
+    "topojson": "3.0.2"
   },
   "devDependencies": {
     "babel-core": "6.26.0",
