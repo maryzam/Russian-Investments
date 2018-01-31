@@ -1,2 +1,36 @@
-﻿body {
+﻿* {
+    box-sizing: border-box
 }
+
+html, body {
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+header, footer {
+    padding: 10px;
+    background: #333;
+    display: flex;
+    flex: 0;
+}
+
+main {
+    flex: 1;
+    overflow: auto;
+}
+
+section {
+    flex: 0 0 auto;
+    margin-bottom: 1px;
+    padding: 10px;
+    background: #aaa;
+    overflow: auto; 
+}
+
