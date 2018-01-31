@@ -1,0 +1,1724 @@
+{
+  "Years": [
+    {
+      "Year": 2004,
+      "Countries": {
+        "Incomes": [
+          {
+            "CountryCode": 442,
+            "Receive": 84307251.0,
+            "Invest": 1227003.0,
+            "Delta": 83080248.0,
+            "Flow": 85534254.0
+          },
+          {
+            "CountryCode": 826,
+            "Receive": 69879909.0,
+            "Invest": 14324037.0,
+            "Delta": 55555872.0,
+            "Flow": 84203946.0
+          },
+          {
+            "CountryCode": 196,
+            "Receive": 54733415.0,
+            "Invest": 75130515.0,
+            "Delta": -20397100.0,
+            "Flow": 129863930.0
+          },
+          {
+            "CountryCode": 528,
+            "Receive": 51074751.0,
+            "Invest": 980118.0,
+            "Delta": 50094633.0,
+            "Flow": 52054869.0
+          },
+          {
+            "CountryCode": 840,
+            "Receive": 18495945.0,
+            "Invest": 103303365.0,
+            "Delta": -84807420.0,
+            "Flow": 121799310.0
+          },
+          {
+            "CountryCode": 276,
+            "Receive": 17321193.0,
+            "Invest": 18582506.0,
+            "Delta": -1261313.0,
+            "Flow": 35903699.0
+          },
+          {
+            "CountryCode": 756,
+            "Receive": 15584461.0,
+            "Invest": 13508812.0,
+            "Delta": 2075649.0,
+            "Flow": 29093273.0
+          },
+          {
+            "CountryCode": -1,
+            "Receive": 63429461.0,
+            "Invest": 88869710.0,
+            "Delta": -25440249.0,
+            "Flow": 152299171.0
+          }
+        ],
+        "Funds": [
+          {
+            "CountryCode": 840,
+            "Receive": 18495945.0,
+            "Invest": 103303365.0,
+            "Delta": -84807420.0,
+            "Flow": 121799310.0
+          },
+          {
+            "CountryCode": 196,
+            "Receive": 54733415.0,
+            "Invest": 75130515.0,
+            "Delta": -20397100.0,
+            "Flow": 129863930.0
+          },
+          {
+            "CountryCode": 92,
+            "Receive": 4675973.0,
+            "Invest": 36302554.0,
+            "Delta": -31626581.0,
+            "Flow": 40978527.0
+          },
+          {
+            "CountryCode": 276,
+            "Receive": 17321193.0,
+            "Invest": 18582506.0,
+            "Delta": -1261313.0,
+            "Flow": 35903699.0
+          },
+          {
+            "CountryCode": 156,
+            "Receive": 1436858.0,
+            "Invest": 15447473.0,
+            "Delta": -14010615.0,
+            "Flow": 16884331.0
+          },
+          {
+            "CountryCode": 826,
+            "Receive": 69879909.0,
+            "Invest": 14324037.0,
+            "Delta": 55555872.0,
+            "Flow": 84203946.0
+          },
+          {
+            "CountryCode": 756,
+            "Receive": 15584461.0,
+            "Invest": 13508812.0,
+            "Delta": 2075649.0,
+            "Flow": 29093273.0
+          },
+          {
+            "CountryCode": -1,
+            "Receive": 192698632.0,
+            "Invest": 39326804.0,
+            "Delta": 153371828.0,
+            "Flow": 232025436.0
+          }
+        ],
+        "Flow": [
+          {
+            "CountryCode": 196,
+            "Receive": 54733415.0,
+            "Invest": 75130515.0,
+            "Delta": -20397100.0,
+            "Flow": 129863930.0
+          },
+          {
+            "CountryCode": 840,
+            "Receive": 18495945.0,
+            "Invest": 103303365.0,
+            "Delta": -84807420.0,
+            "Flow": 121799310.0
+          },
+          {
+            "CountryCode": 442,
+            "Receive": 84307251.0,
+            "Invest": 1227003.0,
+            "Delta": 83080248.0,
+            "Flow": 85534254.0
+          },
+          {
+            "CountryCode": 826,
+            "Receive": 69879909.0,
+            "Invest": 14324037.0,
+            "Delta": 55555872.0,
+            "Flow": 84203946.0
+          },
+          {
+            "CountryCode": 528,
+            "Receive": 51074751.0,
+            "Invest": 980118.0,
+            "Delta": 50094633.0,
+            "Flow": 52054869.0
+          },
+          {
+            "CountryCode": 92,
+            "Receive": 4675973.0,
+            "Invest": 36302554.0,
+            "Delta": -31626581.0,
+            "Flow": 40978527.0
+          },
+          {
+            "CountryCode": 276,
+            "Receive": 17321193.0,
+            "Invest": 18582506.0,
+            "Delta": -1261313.0,
+            "Flow": 35903699.0
+          }
+        ]
+      }
+    },
+    {
+      "Year": 2005,
+      "Countries": {
+        "Incomes": [
+          {
+            "CountryCode": 442,
+            "Receive": 138406504.0,
+            "Invest": 61000.0,
+            "Delta": 138345504.0,
+            "Flow": 138467504.0
+          },
+          {
+            "CountryCode": 528,
+            "Receive": 88975059.0,
+            "Invest": 31507.0,
+            "Delta": 88943552.0,
+            "Flow": 89006566.0
+          },
+          {
+            "CountryCode": 196,
+            "Receive": 51155479.0,
+            "Invest": 10683000.0,
+            "Delta": 40472479.0,
+            "Flow": 61838479.0
+          },
+          {
+            "CountryCode": 276,
+            "Receive": 30100678.0,
+            "Invest": 31467825.0,
+            "Delta": -1367147.0,
+            "Flow": 61568503.0
+          },
+          {
+            "CountryCode": 840,
+            "Receive": 15543784.0,
+            "Invest": 133453352.0,
+            "Delta": -117909568.0,
+            "Flow": 148997136.0
+          },
+          {
+            "CountryCode": 250,
+            "Receive": 14284063.0,
+            "Invest": 146453.0,
+            "Delta": 14137610.0,
+            "Flow": 14430516.0
+          },
+          {
+            "CountryCode": 826,
+            "Receive": 14184401.0,
+            "Invest": 4904685.0,
+            "Delta": 9279716.0,
+            "Flow": 19089086.0
+          },
+          {
+            "CountryCode": -1,
+            "Receive": 93825661.0,
+            "Invest": 96944645.0,
+            "Delta": -3118984.0,
+            "Flow": 190770306.0
+          }
+        ],
+        "Funds": [
+          {
+            "CountryCode": 840,
+            "Receive": 15543784.0,
+            "Invest": 133453352.0,
+            "Delta": -117909568.0,
+            "Flow": 148997136.0
+          },
+          {
+            "CountryCode": 40,
+            "Receive": 10568612.0,
+            "Invest": 42630400.0,
+            "Delta": -32061788.0,
+            "Flow": 53199012.0
+          },
+          {
+            "CountryCode": 276,
+            "Receive": 30100678.0,
+            "Invest": 31467825.0,
+            "Delta": -1367147.0,
+            "Flow": 61568503.0
+          },
+          {
+            "CountryCode": 756,
+            "Receive": 4802948.0,
+            "Invest": 23397427.0,
+            "Delta": -18594479.0,
+            "Flow": 28200375.0
+          },
+          {
+            "CountryCode": 196,
+            "Receive": 51155479.0,
+            "Invest": 10683000.0,
+            "Delta": 40472479.0,
+            "Flow": 61838479.0
+          },
+          {
+            "CountryCode": 833,
+            "Receive": 155325.0,
+            "Invest": 6106790.0,
+            "Delta": -5951465.0,
+            "Flow": 6262115.0
+          },
+          {
+            "CountryCode": 826,
+            "Receive": 14184401.0,
+            "Invest": 4904685.0,
+            "Delta": 9279716.0,
+            "Flow": 19089086.0
+          },
+          {
+            "CountryCode": -1,
+            "Receive": 319964402.0,
+            "Invest": 25048988.0,
+            "Delta": 294915414.0,
+            "Flow": 345013390.0
+          }
+        ],
+        "Flow": [
+          {
+            "CountryCode": 840,
+            "Receive": 15543784.0,
+            "Invest": 133453352.0,
+            "Delta": -117909568.0,
+            "Flow": 148997136.0
+          },
+          {
+            "CountryCode": 442,
+            "Receive": 138406504.0,
+            "Invest": 61000.0,
+            "Delta": 138345504.0,
+            "Flow": 138467504.0
+          },
+          {
+            "CountryCode": 528,
+            "Receive": 88975059.0,
+            "Invest": 31507.0,
+            "Delta": 88943552.0,
+            "Flow": 89006566.0
+          },
+          {
+            "CountryCode": 196,
+            "Receive": 51155479.0,
+            "Invest": 10683000.0,
+            "Delta": 40472479.0,
+            "Flow": 61838479.0
+          },
+          {
+            "CountryCode": 276,
+            "Receive": 30100678.0,
+            "Invest": 31467825.0,
+            "Delta": -1367147.0,
+            "Flow": 61568503.0
+          },
+          {
+            "CountryCode": 40,
+            "Receive": 10568612.0,
+            "Invest": 42630400.0,
+            "Delta": -32061788.0,
+            "Flow": 53199012.0
+          },
+          {
+            "CountryCode": 756,
+            "Receive": 4802948.0,
+            "Invest": 23397427.0,
+            "Delta": -18594479.0,
+            "Flow": 28200375.0
+          }
+        ]
+      }
+    },
+    {
+      "Year": 2006,
+      "Countries": {
+        "Incomes": [
+          {
+            "CountryCode": 826,
+            "Receive": 702184515.0,
+            "Invest": 199680632.0,
+            "Delta": 502503883.0,
+            "Flow": 901865147.0
+          },
+          {
+            "CountryCode": 528,
+            "Receive": 659520761.0,
+            "Invest": 59359185.0,
+            "Delta": 600161576.0,
+            "Flow": 718879946.0
+          },
+          {
+            "CountryCode": 442,
+            "Receive": 590759239.0,
+            "Invest": 8711939.0,
+            "Delta": 582047300.0,
+            "Flow": 599471178.0
+          },
+          {
+            "CountryCode": 196,
+            "Receive": 526054036.0,
+            "Invest": 268606163.0,
+            "Delta": 257447873.0,
+            "Flow": 794660199.0
+          },
+          {
+            "CountryCode": 276,
+            "Receive": 500236585.0,
+            "Invest": 306643493.0,
+            "Delta": 193593092.0,
+            "Flow": 806880078.0
+          },
+          {
+            "CountryCode": 250,
+            "Receive": 303859763.0,
+            "Invest": 1445217.0,
+            "Delta": 302414546.0,
+            "Flow": 305304980.0
+          },
+          {
+            "CountryCode": 756,
+            "Receive": 204668724.0,
+            "Invest": 333324262.0,
+            "Delta": -128655538.0,
+            "Flow": 537992986.0
+          },
+          {
+            "CountryCode": -1,
+            "Receive": 1230029708.0,
+            "Invest": 1993091032.0,
+            "Delta": -763061324.0,
+            "Flow": 3223120740.0
+          }
+        ],
+        "Funds": [
+          {
+            "CountryCode": 40,
+            "Receive": 108492426.0,
+            "Invest": 1282955103.0,
+            "Delta": -1174462677.0,
+            "Flow": 1391447529.0
+          },
+          {
+            "CountryCode": 756,
+            "Receive": 204668724.0,
+            "Invest": 333324262.0,
+            "Delta": -128655538.0,
+            "Flow": 537992986.0
+          },
+          {
+            "CountryCode": 276,
+            "Receive": 500236585.0,
+            "Invest": 306643493.0,
+            "Delta": 193593092.0,
+            "Flow": 806880078.0
+          },
+          {
+            "CountryCode": 804,
+            "Receive": 70495261.0,
+            "Invest": 300132607.0,
+            "Delta": -229637346.0,
+            "Flow": 370627868.0
+          },
+          {
+            "CountryCode": 196,
+            "Receive": 526054036.0,
+            "Invest": 268606163.0,
+            "Delta": 257447873.0,
+            "Flow": 794660199.0
+          },
+          {
+            "CountryCode": 826,
+            "Receive": 702184515.0,
+            "Invest": 199680632.0,
+            "Delta": 502503883.0,
+            "Flow": 901865147.0
+          },
+          {
+            "CountryCode": 840,
+            "Receive": 164051878.0,
+            "Invest": 182405115.0,
+            "Delta": -18353237.0,
+            "Flow": 346456993.0
+          },
+          {
+            "CountryCode": -1,
+            "Receive": 2441129906.0,
+            "Invest": 297114548.0,
+            "Delta": 2144015358.0,
+            "Flow": 2738244454.0
+          }
+        ],
+        "Flow": [
+          {
+            "CountryCode": 40,
+            "Receive": 108492426.0,
+            "Invest": 1282955103.0,
+            "Delta": -1174462677.0,
+            "Flow": 1391447529.0
+          },
+          {
+            "CountryCode": 826,
+            "Receive": 702184515.0,
+            "Invest": 199680632.0,
+            "Delta": 502503883.0,
+            "Flow": 901865147.0
+          },
+          {
+            "CountryCode": 276,
+            "Receive": 500236585.0,
+            "Invest": 306643493.0,
+            "Delta": 193593092.0,
+            "Flow": 806880078.0
+          },
+          {
+            "CountryCode": 196,
+            "Receive": 526054036.0,
+            "Invest": 268606163.0,
+            "Delta": 257447873.0,
+            "Flow": 794660199.0
+          },
+          {
+            "CountryCode": 528,
+            "Receive": 659520761.0,
+            "Invest": 59359185.0,
+            "Delta": 600161576.0,
+            "Flow": 718879946.0
+          },
+          {
+            "CountryCode": 442,
+            "Receive": 590759239.0,
+            "Invest": 8711939.0,
+            "Delta": 582047300.0,
+            "Flow": 599471178.0
+          },
+          {
+            "CountryCode": 756,
+            "Receive": 204668724.0,
+            "Invest": 333324262.0,
+            "Delta": -128655538.0,
+            "Flow": 537992986.0
+          }
+        ]
+      }
+    },
+    {
+      "Year": 2008,
+      "Countries": {
+        "Incomes": [
+          {
+            "CountryCode": 826,
+            "Receive": 1494042328.0,
+            "Invest": 514310426.0,
+            "Delta": 979731902.0,
+            "Flow": 2008352754.0
+          },
+          {
+            "CountryCode": 196,
+            "Receive": 1396924038.0,
+            "Invest": 1551960681.0,
+            "Delta": -155036643.0,
+            "Flow": 2948884719.0
+          },
+          {
+            "CountryCode": 528,
+            "Receive": 959619310.0,
+            "Invest": 836744851.0,
+            "Delta": 122874459.0,
+            "Flow": 1796364161.0
+          },
+          {
+            "CountryCode": 442,
+            "Receive": 671038172.0,
+            "Invest": 5231708.0,
+            "Delta": 665806464.0,
+            "Flow": 676269880.0
+          },
+          {
+            "CountryCode": 250,
+            "Receive": 615656056.0,
+            "Invest": 4923995.0,
+            "Delta": 610732061.0,
+            "Flow": 620580051.0
+          },
+          {
+            "CountryCode": 276,
+            "Receive": 430378497.0,
+            "Invest": 39255298.0,
+            "Delta": 391123199.0,
+            "Flow": 469633795.0
+          },
+          {
+            "CountryCode": 92,
+            "Receive": 352885814.0,
+            "Invest": 199460066.0,
+            "Delta": 153425748.0,
+            "Flow": 552345880.0
+          },
+          {
+            "CountryCode": -1,
+            "Receive": 2468853415.0,
+            "Invest": 7952500551.0,
+            "Delta": -5483647136.0,
+            "Flow": 10421353966.0
+          }
+        ],
+        "Funds": [
+          {
+            "CountryCode": 756,
+            "Receive": 306193993.0,
+            "Invest": 4599411431.0,
+            "Delta": -4293217438.0,
+            "Flow": 4905605424.0
+          },
+          {
+            "CountryCode": 40,
+            "Receive": 187248241.0,
+            "Invest": 1552230526.0,
+            "Delta": -1364982285.0,
+            "Flow": 1739478767.0
+          },
+          {
+            "CountryCode": 196,
+            "Receive": 1396924038.0,
+            "Invest": 1551960681.0,
+            "Delta": -155036643.0,
+            "Flow": 2948884719.0
+          },
+          {
+            "CountryCode": 528,
+            "Receive": 959619310.0,
+            "Invest": 836744851.0,
+            "Delta": 122874459.0,
+            "Flow": 1796364161.0
+          },
+          {
+            "CountryCode": 112,
+            "Receive": 214149469.0,
+            "Invest": 594438246.0,
+            "Delta": -380288777.0,
+            "Flow": 808587715.0
+          },
+          {
+            "CountryCode": 840,
+            "Receive": 277277614.0,
+            "Invest": 526202365.0,
+            "Delta": -248924751.0,
+            "Flow": 803479979.0
+          },
+          {
+            "CountryCode": 826,
+            "Receive": 1494042328.0,
+            "Invest": 514310426.0,
+            "Delta": 979731902.0,
+            "Flow": 2008352754.0
+          },
+          {
+            "CountryCode": -1,
+            "Receive": 3553942637.0,
+            "Invest": 929089050.0,
+            "Delta": 2624853587.0,
+            "Flow": 4483031687.0
+          }
+        ],
+        "Flow": [
+          {
+            "CountryCode": 756,
+            "Receive": 306193993.0,
+            "Invest": 4599411431.0,
+            "Delta": -4293217438.0,
+            "Flow": 4905605424.0
+          },
+          {
+            "CountryCode": 196,
+            "Receive": 1396924038.0,
+            "Invest": 1551960681.0,
+            "Delta": -155036643.0,
+            "Flow": 2948884719.0
+          },
+          {
+            "CountryCode": 826,
+            "Receive": 1494042328.0,
+            "Invest": 514310426.0,
+            "Delta": 979731902.0,
+            "Flow": 2008352754.0
+          },
+          {
+            "CountryCode": 528,
+            "Receive": 959619310.0,
+            "Invest": 836744851.0,
+            "Delta": 122874459.0,
+            "Flow": 1796364161.0
+          },
+          {
+            "CountryCode": 40,
+            "Receive": 187248241.0,
+            "Invest": 1552230526.0,
+            "Delta": -1364982285.0,
+            "Flow": 1739478767.0
+          },
+          {
+            "CountryCode": 112,
+            "Receive": 214149469.0,
+            "Invest": 594438246.0,
+            "Delta": -380288777.0,
+            "Flow": 808587715.0
+          },
+          {
+            "CountryCode": 840,
+            "Receive": 277277614.0,
+            "Invest": 526202365.0,
+            "Delta": -248924751.0,
+            "Flow": 803479979.0
+          }
+        ]
+      }
+    },
+    {
+      "Year": 2009,
+      "Countries": {
+        "Incomes": [
+          {
+            "CountryCode": 442,
+            "Receive": 1172265247.0,
+            "Invest": 41510904.0,
+            "Delta": 1130754343.0,
+            "Flow": 1213776151.0
+          },
+          {
+            "CountryCode": 528,
+            "Receive": 1034313409.0,
+            "Invest": 1064833279.0,
+            "Delta": -30519870.0,
+            "Flow": 2099146688.0
+          },
+          {
+            "CountryCode": 156,
+            "Receive": 975651937.0,
+            "Invest": 4011205.0,
+            "Delta": 971640732.0,
+            "Flow": 979663142.0
+          },
+          {
+            "CountryCode": 196,
+            "Receive": 787358643.0,
+            "Invest": 489464967.0,
+            "Delta": 297893676.0,
+            "Flow": 1276823610.0
+          },
+          {
+            "CountryCode": 826,
+            "Receive": 640717623.0,
+            "Invest": 139821995.0,
+            "Delta": 500895628.0,
+            "Flow": 780539618.0
+          },
+          {
+            "CountryCode": 276,
+            "Receive": 528434167.0,
+            "Invest": 112772211.0,
+            "Delta": 415661956.0,
+            "Flow": 641206378.0
+          },
+          {
+            "CountryCode": 756,
+            "Receive": 358551536.0,
+            "Invest": 3487664641.0,
+            "Delta": -3129113105.0,
+            "Flow": 3846216177.0
+          },
+          {
+            "CountryCode": -1,
+            "Receive": 2126075125.0,
+            "Invest": 2433629240.0,
+            "Delta": -307554115.0,
+            "Flow": 4559704365.0
+          }
+        ],
+        "Funds": [
+          {
+            "CountryCode": 756,
+            "Receive": 358551536.0,
+            "Invest": 3487664641.0,
+            "Delta": -3129113105.0,
+            "Flow": 3846216177.0
+          },
+          {
+            "CountryCode": 528,
+            "Receive": 1034313409.0,
+            "Invest": 1064833279.0,
+            "Delta": -30519870.0,
+            "Flow": 2099146688.0
+          },
+          {
+            "CountryCode": 40,
+            "Receive": 93564034.0,
+            "Invest": 1037967781.0,
+            "Delta": -944403747.0,
+            "Flow": 1131531815.0
+          },
+          {
+            "CountryCode": 112,
+            "Receive": 154244180.0,
+            "Invest": 654248773.0,
+            "Delta": -500004593.0,
+            "Flow": 808492953.0
+          },
+          {
+            "CountryCode": 196,
+            "Receive": 787358643.0,
+            "Invest": 489464967.0,
+            "Delta": 297893676.0,
+            "Flow": 1276823610.0
+          },
+          {
+            "CountryCode": 804,
+            "Receive": 30084646.0,
+            "Invest": 156596012.0,
+            "Delta": -126511366.0,
+            "Flow": 186680658.0
+          },
+          {
+            "CountryCode": 840,
+            "Receive": 141761900.0,
+            "Invest": 150716667.0,
+            "Delta": -8954767.0,
+            "Flow": 292478567.0
+          },
+          {
+            "CountryCode": -1,
+            "Receive": 5023489339.0,
+            "Invest": 732216322.0,
+            "Delta": 4291273017.0,
+            "Flow": 5755705661.0
+          }
+        ],
+        "Flow": [
+          {
+            "CountryCode": 756,
+            "Receive": 358551536.0,
+            "Invest": 3487664641.0,
+            "Delta": -3129113105.0,
+            "Flow": 3846216177.0
+          },
+          {
+            "CountryCode": 528,
+            "Receive": 1034313409.0,
+            "Invest": 1064833279.0,
+            "Delta": -30519870.0,
+            "Flow": 2099146688.0
+          },
+          {
+            "CountryCode": 196,
+            "Receive": 787358643.0,
+            "Invest": 489464967.0,
+            "Delta": 297893676.0,
+            "Flow": 1276823610.0
+          },
+          {
+            "CountryCode": 442,
+            "Receive": 1172265247.0,
+            "Invest": 41510904.0,
+            "Delta": 1130754343.0,
+            "Flow": 1213776151.0
+          },
+          {
+            "CountryCode": 40,
+            "Receive": 93564034.0,
+            "Invest": 1037967781.0,
+            "Delta": -944403747.0,
+            "Flow": 1131531815.0
+          },
+          {
+            "CountryCode": 156,
+            "Receive": 975651937.0,
+            "Invest": 4011205.0,
+            "Delta": 971640732.0,
+            "Flow": 979663142.0
+          },
+          {
+            "CountryCode": 112,
+            "Receive": 154244180.0,
+            "Invest": 654248773.0,
+            "Delta": -500004593.0,
+            "Flow": 808492953.0
+          }
+        ]
+      }
+    },
+    {
+      "Year": 2010,
+      "Countries": {
+        "Incomes": [
+          {
+            "CountryCode": 826,
+            "Receive": 4077006464.0,
+            "Invest": 482295421.0,
+            "Delta": 3594711043.0,
+            "Flow": 4559301885.0
+          },
+          {
+            "CountryCode": 528,
+            "Receive": 1069595134.0,
+            "Invest": 191653647.0,
+            "Delta": 877941487.0,
+            "Flow": 1261248781.0
+          },
+          {
+            "CountryCode": 276,
+            "Receive": 1043513231.0,
+            "Invest": 64323518.0,
+            "Delta": 979189713.0,
+            "Flow": 1107836749.0
+          },
+          {
+            "CountryCode": 196,
+            "Receive": 872153797.0,
+            "Invest": 714819982.0,
+            "Delta": 157333815.0,
+            "Flow": 1586973779.0
+          },
+          {
+            "CountryCode": 156,
+            "Receive": 763137595.0,
+            "Invest": 14920449.0,
+            "Delta": 748217146.0,
+            "Flow": 778058044.0
+          },
+          {
+            "CountryCode": 442,
+            "Receive": 537390458.0,
+            "Invest": 35285580.0,
+            "Delta": 502104878.0,
+            "Flow": 572676038.0
+          },
+          {
+            "CountryCode": 756,
+            "Receive": 467876719.0,
+            "Invest": 4031420646.0,
+            "Delta": -3563543927.0,
+            "Flow": 4499297365.0
+          },
+          {
+            "CountryCode": -1,
+            "Receive": 2474745050.0,
+            "Invest": 2831433568.0,
+            "Delta": -356688518.0,
+            "Flow": 5306178618.0
+          }
+        ],
+        "Funds": [
+          {
+            "CountryCode": 756,
+            "Receive": 467876719.0,
+            "Invest": 4031420646.0,
+            "Delta": -3563543927.0,
+            "Flow": 4499297365.0
+          },
+          {
+            "CountryCode": 40,
+            "Receive": 110401786.0,
+            "Invest": 1380620346.0,
+            "Delta": -1270218560.0,
+            "Flow": 1491022132.0
+          },
+          {
+            "CountryCode": 196,
+            "Receive": 872153797.0,
+            "Invest": 714819982.0,
+            "Delta": 157333815.0,
+            "Flow": 1586973779.0
+          },
+          {
+            "CountryCode": 826,
+            "Receive": 4077006464.0,
+            "Invest": 482295421.0,
+            "Delta": 3594711043.0,
+            "Flow": 4559301885.0
+          },
+          {
+            "CountryCode": 112,
+            "Receive": 193903917.0,
+            "Invest": 412543958.0,
+            "Delta": -218640041.0,
+            "Flow": 606447875.0
+          },
+          {
+            "CountryCode": 92,
+            "Receive": 238335780.0,
+            "Invest": 306920506.0,
+            "Delta": -68584726.0,
+            "Flow": 545256286.0
+          },
+          {
+            "CountryCode": 528,
+            "Receive": 1069595134.0,
+            "Invest": 191653647.0,
+            "Delta": 877941487.0,
+            "Flow": 1261248781.0
+          },
+          {
+            "CountryCode": -1,
+            "Receive": 4276144851.0,
+            "Invest": 845878305.0,
+            "Delta": 3430266546.0,
+            "Flow": 5122023156.0
+          }
+        ],
+        "Flow": [
+          {
+            "CountryCode": 826,
+            "Receive": 4077006464.0,
+            "Invest": 482295421.0,
+            "Delta": 3594711043.0,
+            "Flow": 4559301885.0
+          },
+          {
+            "CountryCode": 756,
+            "Receive": 467876719.0,
+            "Invest": 4031420646.0,
+            "Delta": -3563543927.0,
+            "Flow": 4499297365.0
+          },
+          {
+            "CountryCode": 196,
+            "Receive": 872153797.0,
+            "Invest": 714819982.0,
+            "Delta": 157333815.0,
+            "Flow": 1586973779.0
+          },
+          {
+            "CountryCode": 40,
+            "Receive": 110401786.0,
+            "Invest": 1380620346.0,
+            "Delta": -1270218560.0,
+            "Flow": 1491022132.0
+          },
+          {
+            "CountryCode": 528,
+            "Receive": 1069595134.0,
+            "Invest": 191653647.0,
+            "Delta": 877941487.0,
+            "Flow": 1261248781.0
+          },
+          {
+            "CountryCode": 276,
+            "Receive": 1043513231.0,
+            "Invest": 64323518.0,
+            "Delta": 979189713.0,
+            "Flow": 1107836749.0
+          },
+          {
+            "CountryCode": 156,
+            "Receive": 763137595.0,
+            "Invest": 14920449.0,
+            "Delta": 748217146.0,
+            "Flow": 778058044.0
+          }
+        ]
+      }
+    },
+    {
+      "Year": 2011,
+      "Countries": {
+        "Incomes": [
+          {
+            "CountryCode": 756,
+            "Receive": 9182698029.0,
+            "Invest": 4935253668.0,
+            "Delta": 4247444361.0,
+            "Flow": 14117951697.0
+          },
+          {
+            "CountryCode": 196,
+            "Receive": 2026835822.0,
+            "Invest": 1995120683.0,
+            "Delta": 31715139.0,
+            "Flow": 4021956505.0
+          },
+          {
+            "CountryCode": 528,
+            "Receive": 1679881816.0,
+            "Invest": 95384103.0,
+            "Delta": 1584497713.0,
+            "Flow": 1775265919.0
+          },
+          {
+            "CountryCode": 826,
+            "Receive": 1310382626.0,
+            "Invest": 704239509.0,
+            "Delta": 606143117.0,
+            "Flow": 2014622135.0
+          },
+          {
+            "CountryCode": 276,
+            "Receive": 1026436241.0,
+            "Invest": 575905957.0,
+            "Delta": 450530284.0,
+            "Flow": 1602342198.0
+          },
+          {
+            "CountryCode": 442,
+            "Receive": 465528853.0,
+            "Invest": 178536673.0,
+            "Delta": 286992180.0,
+            "Flow": 644065526.0
+          },
+          {
+            "CountryCode": 250,
+            "Receive": 435334531.0,
+            "Invest": 20902418.0,
+            "Delta": 414432113.0,
+            "Flow": 456236949.0
+          },
+          {
+            "CountryCode": -1,
+            "Receive": 2685111770.0,
+            "Invest": 3442664454.0,
+            "Delta": -757552684.0,
+            "Flow": 6127776224.0
+          }
+        ],
+        "Funds": [
+          {
+            "CountryCode": 756,
+            "Receive": 9182698029.0,
+            "Invest": 4935253668.0,
+            "Delta": 4247444361.0,
+            "Flow": 14117951697.0
+          },
+          {
+            "CountryCode": 196,
+            "Receive": 2026835822.0,
+            "Invest": 1995120683.0,
+            "Delta": 31715139.0,
+            "Flow": 4021956505.0
+          },
+          {
+            "CountryCode": 112,
+            "Receive": 309350776.0,
+            "Invest": 923189309.0,
+            "Delta": -613838533.0,
+            "Flow": 1232540085.0
+          },
+          {
+            "CountryCode": 826,
+            "Receive": 1310382626.0,
+            "Invest": 704239509.0,
+            "Delta": 606143117.0,
+            "Flow": 2014622135.0
+          },
+          {
+            "CountryCode": 276,
+            "Receive": 1026436241.0,
+            "Invest": 575905957.0,
+            "Delta": 450530284.0,
+            "Flow": 1602342198.0
+          },
+          {
+            "CountryCode": 659,
+            "Receive": 826756.0,
+            "Invest": 459094868.0,
+            "Delta": -458268112.0,
+            "Flow": 459921624.0
+          },
+          {
+            "CountryCode": 92,
+            "Receive": 208312813.0,
+            "Invest": 344384080.0,
+            "Delta": -136071267.0,
+            "Flow": 552696893.0
+          },
+          {
+            "CountryCode": -1,
+            "Receive": 4747366625.0,
+            "Invest": 2010819391.0,
+            "Delta": 2736547234.0,
+            "Flow": 6758186016.0
+          }
+        ],
+        "Flow": [
+          {
+            "CountryCode": 756,
+            "Receive": 9182698029.0,
+            "Invest": 4935253668.0,
+            "Delta": 4247444361.0,
+            "Flow": 14117951697.0
+          },
+          {
+            "CountryCode": 196,
+            "Receive": 2026835822.0,
+            "Invest": 1995120683.0,
+            "Delta": 31715139.0,
+            "Flow": 4021956505.0
+          },
+          {
+            "CountryCode": 826,
+            "Receive": 1310382626.0,
+            "Invest": 704239509.0,
+            "Delta": 606143117.0,
+            "Flow": 2014622135.0
+          },
+          {
+            "CountryCode": 528,
+            "Receive": 1679881816.0,
+            "Invest": 95384103.0,
+            "Delta": 1584497713.0,
+            "Flow": 1775265919.0
+          },
+          {
+            "CountryCode": 276,
+            "Receive": 1026436241.0,
+            "Invest": 575905957.0,
+            "Delta": 450530284.0,
+            "Flow": 1602342198.0
+          },
+          {
+            "CountryCode": 112,
+            "Receive": 309350776.0,
+            "Invest": 923189309.0,
+            "Delta": -613838533.0,
+            "Flow": 1232540085.0
+          },
+          {
+            "CountryCode": 442,
+            "Receive": 465528853.0,
+            "Invest": 178536673.0,
+            "Delta": 286992180.0,
+            "Flow": 644065526.0
+          }
+        ]
+      }
+    },
+    {
+      "Year": 2012,
+      "Countries": {
+        "Incomes": [
+          {
+            "CountryCode": 756,
+            "Receive": 4679048266.0,
+            "Invest": 5070338366.0,
+            "Delta": -391290100.0,
+            "Flow": 9749386632.0
+          },
+          {
+            "CountryCode": 528,
+            "Receive": 2112548359.0,
+            "Invest": 852063257.0,
+            "Delta": 1260485102.0,
+            "Flow": 2964611616.0
+          },
+          {
+            "CountryCode": 196,
+            "Receive": 1645504772.0,
+            "Invest": 1684769361.0,
+            "Delta": -39264589.0,
+            "Flow": 3330274133.0
+          },
+          {
+            "CountryCode": 826,
+            "Receive": 1348987465.0,
+            "Invest": 914697249.0,
+            "Delta": 434290216.0,
+            "Flow": 2263684714.0
+          },
+          {
+            "CountryCode": 442,
+            "Receive": 1150625711.0,
+            "Invest": 44534979.0,
+            "Delta": 1106090732.0,
+            "Flow": 1195160690.0
+          },
+          {
+            "CountryCode": 276,
+            "Receive": 720239926.0,
+            "Invest": 444844364.0,
+            "Delta": 275395562.0,
+            "Flow": 1165084290.0
+          },
+          {
+            "CountryCode": 372,
+            "Receive": 467085866.0,
+            "Invest": 68864485.0,
+            "Delta": 398221381.0,
+            "Flow": 535950351.0
+          },
+          {
+            "CountryCode": -1,
+            "Receive": 3196489217.0,
+            "Invest": 5249796859.0,
+            "Delta": -2053307642.0,
+            "Flow": 8446286076.0
+          }
+        ],
+        "Funds": [
+          {
+            "CountryCode": 756,
+            "Receive": 4679048266.0,
+            "Invest": 5070338366.0,
+            "Delta": -391290100.0,
+            "Flow": 9749386632.0
+          },
+          {
+            "CountryCode": 40,
+            "Receive": 199757759.0,
+            "Invest": 1963437868.0,
+            "Delta": -1763680109.0,
+            "Flow": 2163195627.0
+          },
+          {
+            "CountryCode": 196,
+            "Receive": 1645504772.0,
+            "Invest": 1684769361.0,
+            "Delta": -39264589.0,
+            "Flow": 3330274133.0
+          },
+          {
+            "CountryCode": 826,
+            "Receive": 1348987465.0,
+            "Invest": 914697249.0,
+            "Delta": 434290216.0,
+            "Flow": 2263684714.0
+          },
+          {
+            "CountryCode": 528,
+            "Receive": 2112548359.0,
+            "Invest": 852063257.0,
+            "Delta": 1260485102.0,
+            "Flow": 2964611616.0
+          },
+          {
+            "CountryCode": 112,
+            "Receive": 255844045.0,
+            "Invest": 710147840.0,
+            "Delta": -454303795.0,
+            "Flow": 965991885.0
+          },
+          {
+            "CountryCode": 659,
+            "Receive": 2523388.0,
+            "Invest": 460285555.0,
+            "Delta": -457762167.0,
+            "Flow": 462808943.0
+          },
+          {
+            "CountryCode": -1,
+            "Receive": 5076315528.0,
+            "Invest": 2674169424.0,
+            "Delta": 2402146104.0,
+            "Flow": 7750484952.0
+          }
+        ],
+        "Flow": [
+          {
+            "CountryCode": 756,
+            "Receive": 4679048266.0,
+            "Invest": 5070338366.0,
+            "Delta": -391290100.0,
+            "Flow": 9749386632.0
+          },
+          {
+            "CountryCode": 196,
+            "Receive": 1645504772.0,
+            "Invest": 1684769361.0,
+            "Delta": -39264589.0,
+            "Flow": 3330274133.0
+          },
+          {
+            "CountryCode": 528,
+            "Receive": 2112548359.0,
+            "Invest": 852063257.0,
+            "Delta": 1260485102.0,
+            "Flow": 2964611616.0
+          },
+          {
+            "CountryCode": 826,
+            "Receive": 1348987465.0,
+            "Invest": 914697249.0,
+            "Delta": 434290216.0,
+            "Flow": 2263684714.0
+          },
+          {
+            "CountryCode": 40,
+            "Receive": 199757759.0,
+            "Invest": 1963437868.0,
+            "Delta": -1763680109.0,
+            "Flow": 2163195627.0
+          },
+          {
+            "CountryCode": 442,
+            "Receive": 1150625711.0,
+            "Invest": 44534979.0,
+            "Delta": 1106090732.0,
+            "Flow": 1195160690.0
+          },
+          {
+            "CountryCode": 276,
+            "Receive": 720239926.0,
+            "Invest": 444844364.0,
+            "Delta": 275395562.0,
+            "Flow": 1165084290.0
+          }
+        ]
+      }
+    },
+    {
+      "Year": 2013,
+      "Countries": {
+        "Incomes": [
+          {
+            "CountryCode": 196,
+            "Receive": 2268332502.0,
+            "Invest": 1947707010.0,
+            "Delta": 320625492.0,
+            "Flow": 4216039512.0
+          },
+          {
+            "CountryCode": 826,
+            "Receive": 1886159904.0,
+            "Invest": 462088526.0,
+            "Delta": 1424071378.0,
+            "Flow": 2348248430.0
+          },
+          {
+            "CountryCode": 442,
+            "Receive": 1699588544.0,
+            "Invest": 103149406.0,
+            "Delta": 1596439138.0,
+            "Flow": 1802737950.0
+          },
+          {
+            "CountryCode": 528,
+            "Receive": 1198776245.0,
+            "Invest": 844803703.0,
+            "Delta": 353972542.0,
+            "Flow": 2043579948.0
+          },
+          {
+            "CountryCode": 250,
+            "Receive": 1030895439.0,
+            "Invest": 20032663.0,
+            "Delta": 1010862776.0,
+            "Flow": 1050928102.0
+          },
+          {
+            "CountryCode": 840,
+            "Receive": 865578893.0,
+            "Invest": 73083713.0,
+            "Delta": 792495180.0,
+            "Flow": 938662606.0
+          },
+          {
+            "CountryCode": 372,
+            "Receive": 675666430.0,
+            "Invest": 30735407.0,
+            "Delta": 644931023.0,
+            "Flow": 706401837.0
+          },
+          {
+            "CountryCode": -1,
+            "Receive": 3589346000.0,
+            "Invest": 16320399068.0,
+            "Delta": -12731053068.0,
+            "Flow": 19909745068.0
+          }
+        ],
+        "Funds": [
+          {
+            "CountryCode": 92,
+            "Receive": 37152920.0,
+            "Invest": 6158763943.0,
+            "Delta": -6121611023.0,
+            "Flow": 6195916863.0
+          },
+          {
+            "CountryCode": 756,
+            "Receive": 320873974.0,
+            "Invest": 4847078394.0,
+            "Delta": -4526204420.0,
+            "Flow": 5167952368.0
+          },
+          {
+            "CountryCode": 40,
+            "Receive": 373513325.0,
+            "Invest": 2198560498.0,
+            "Delta": -1825047173.0,
+            "Flow": 2572073823.0
+          },
+          {
+            "CountryCode": 196,
+            "Receive": 2268332502.0,
+            "Invest": 1947707010.0,
+            "Delta": 320625492.0,
+            "Flow": 4216039512.0
+          },
+          {
+            "CountryCode": 528,
+            "Receive": 1198776245.0,
+            "Invest": 844803703.0,
+            "Delta": 353972542.0,
+            "Flow": 2043579948.0
+          },
+          {
+            "CountryCode": 826,
+            "Receive": 1886159904.0,
+            "Invest": 462088526.0,
+            "Delta": 1424071378.0,
+            "Flow": 2348248430.0
+          },
+          {
+            "CountryCode": 276,
+            "Receive": 91814559.0,
+            "Invest": 387126461.0,
+            "Delta": -295311902.0,
+            "Flow": 478941020.0
+          },
+          {
+            "CountryCode": -1,
+            "Receive": 7037720528.0,
+            "Invest": 2955870961.0,
+            "Delta": 4081849567.0,
+            "Flow": 9993591489.0
+          }
+        ],
+        "Flow": [
+          {
+            "CountryCode": 92,
+            "Receive": 37152920.0,
+            "Invest": 6158763943.0,
+            "Delta": -6121611023.0,
+            "Flow": 6195916863.0
+          },
+          {
+            "CountryCode": 756,
+            "Receive": 320873974.0,
+            "Invest": 4847078394.0,
+            "Delta": -4526204420.0,
+            "Flow": 5167952368.0
+          },
+          {
+            "CountryCode": 196,
+            "Receive": 2268332502.0,
+            "Invest": 1947707010.0,
+            "Delta": 320625492.0,
+            "Flow": 4216039512.0
+          },
+          {
+            "CountryCode": 40,
+            "Receive": 373513325.0,
+            "Invest": 2198560498.0,
+            "Delta": -1825047173.0,
+            "Flow": 2572073823.0
+          },
+          {
+            "CountryCode": 826,
+            "Receive": 1886159904.0,
+            "Invest": 462088526.0,
+            "Delta": 1424071378.0,
+            "Flow": 2348248430.0
+          },
+          {
+            "CountryCode": 528,
+            "Receive": 1198776245.0,
+            "Invest": 844803703.0,
+            "Delta": 353972542.0,
+            "Flow": 2043579948.0
+          },
+          {
+            "CountryCode": 442,
+            "Receive": 1699588544.0,
+            "Invest": 103149406.0,
+            "Delta": 1596439138.0,
+            "Flow": 1802737950.0
+          }
+        ]
+      }
+    },
+    {
+      "Year": 2007,
+      "Countries": {
+        "Incomes": [
+          {
+            "CountryCode": 826,
+            "Receive": 2632808925.0,
+            "Invest": 47602266.0,
+            "Delta": 2585206659.0,
+            "Flow": 2680411191.0
+          },
+          {
+            "CountryCode": 196,
+            "Receive": 2065392275.0,
+            "Invest": 923043937.0,
+            "Delta": 1142348338.0,
+            "Flow": 2988436212.0
+          },
+          {
+            "CountryCode": 528,
+            "Receive": 1875075679.0,
+            "Invest": 68744735.0,
+            "Delta": 1806330944.0,
+            "Flow": 1943820414.0
+          },
+          {
+            "CountryCode": 442,
+            "Receive": 1136702001.0,
+            "Invest": 50185147.0,
+            "Delta": 1086516854.0,
+            "Flow": 1186887148.0
+          },
+          {
+            "CountryCode": 756,
+            "Receive": 533962745.0,
+            "Invest": 456032065.0,
+            "Delta": 77930680.0,
+            "Flow": 989994810.0
+          },
+          {
+            "CountryCode": 372,
+            "Receive": 517524475.0,
+            "Invest": 449679.0,
+            "Delta": 517074796.0,
+            "Flow": 517974154.0
+          },
+          {
+            "CountryCode": 276,
+            "Receive": 505498057.0,
+            "Invest": 731137688.0,
+            "Delta": -225639631.0,
+            "Flow": 1236635745.0
+          },
+          {
+            "CountryCode": -1,
+            "Receive": 2112070628.0,
+            "Invest": 4113772377.0,
+            "Delta": -2001701749.0,
+            "Flow": 6225843005.0
+          }
+        ],
+        "Funds": [
+          {
+            "CountryCode": 840,
+            "Receive": 259012180.0,
+            "Invest": 2279585990.0,
+            "Delta": -2020573810.0,
+            "Flow": 2538598170.0
+          },
+          {
+            "CountryCode": 40,
+            "Receive": 139620628.0,
+            "Invest": 1029972517.0,
+            "Delta": -890351889.0,
+            "Flow": 1169593145.0
+          },
+          {
+            "CountryCode": 196,
+            "Receive": 2065392275.0,
+            "Invest": 923043937.0,
+            "Delta": 1142348338.0,
+            "Flow": 2988436212.0
+          },
+          {
+            "CountryCode": 276,
+            "Receive": 505498057.0,
+            "Invest": 731137688.0,
+            "Delta": -225639631.0,
+            "Flow": 1236635745.0
+          },
+          {
+            "CountryCode": 756,
+            "Receive": 533962745.0,
+            "Invest": 456032065.0,
+            "Delta": 77930680.0,
+            "Flow": 989994810.0
+          },
+          {
+            "CountryCode": 92,
+            "Receive": 214020108.0,
+            "Invest": 366766232.0,
+            "Delta": -152746124.0,
+            "Flow": 580786340.0
+          },
+          {
+            "CountryCode": 112,
+            "Receive": 95577169.0,
+            "Invest": 131250859.0,
+            "Delta": -35673690.0,
+            "Flow": 226828028.0
+          },
+          {
+            "CountryCode": -1,
+            "Receive": 7565951623.0,
+            "Invest": 473178606.0,
+            "Delta": 7092773017.0,
+            "Flow": 8039130229.0
+          }
+        ],
+        "Flow": [
+          {
+            "CountryCode": 196,
+            "Receive": 2065392275.0,
+            "Invest": 923043937.0,
+            "Delta": 1142348338.0,
+            "Flow": 2988436212.0
+          },
+          {
+            "CountryCode": 826,
+            "Receive": 2632808925.0,
+            "Invest": 47602266.0,
+            "Delta": 2585206659.0,
+            "Flow": 2680411191.0
+          },
+          {
+            "CountryCode": 840,
+            "Receive": 259012180.0,
+            "Invest": 2279585990.0,
+            "Delta": -2020573810.0,
+            "Flow": 2538598170.0
+          },
+          {
+            "CountryCode": 528,
+            "Receive": 1875075679.0,
+            "Invest": 68744735.0,
+            "Delta": 1806330944.0,
+            "Flow": 1943820414.0
+          },
+          {
+            "CountryCode": 276,
+            "Receive": 505498057.0,
+            "Invest": 731137688.0,
+            "Delta": -225639631.0,
+            "Flow": 1236635745.0
+          },
+          {
+            "CountryCode": 442,
+            "Receive": 1136702001.0,
+            "Invest": 50185147.0,
+            "Delta": 1086516854.0,
+            "Flow": 1186887148.0
+          },
+          {
+            "CountryCode": 40,
+            "Receive": 139620628.0,
+            "Invest": 1029972517.0,
+            "Delta": -890351889.0,
+            "Flow": 1169593145.0
+          }
+        ]
+      }
+    }
+  ]
+}

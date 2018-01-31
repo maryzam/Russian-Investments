@@ -1,0 +1,4698 @@
+{
+  "Years": [
+    {
+      "Year": 2004,
+      "Regions": [
+        {
+          "RegionCode": 46000000,
+          "Receive": 18289524.0,
+          "Invest": 17275.0,
+          "Delta": 18272249.0
+        },
+        {
+          "RegionCode": 61000000,
+          "Receive": 441930.0,
+          "Invest": 4270.0,
+          "Delta": 437660.0
+        },
+        {
+          "RegionCode": 70000000,
+          "Receive": 868997.0,
+          "Invest": 17.0,
+          "Delta": 868980.0
+        },
+        {
+          "RegionCode": 45000000,
+          "Receive": 32624339.0,
+          "Invest": 12468204.0,
+          "Delta": 20156135.0
+        },
+        {
+          "RegionCode": 19000000,
+          "Receive": 11083236.0,
+          "Invest": 275500.0,
+          "Delta": 10807736.0
+        },
+        {
+          "RegionCode": 47000000,
+          "Receive": 37151.0,
+          "Invest": 253106.0,
+          "Delta": -215955.0
+        },
+        {
+          "RegionCode": 40000000,
+          "Receive": 9850838.0,
+          "Invest": 53571181.0,
+          "Delta": -43720343.0
+        },
+        {
+          "RegionCode": 92000000,
+          "Receive": 5961408.0,
+          "Invest": 539.0,
+          "Delta": 5960869.0
+        },
+        {
+          "RegionCode": 36000000,
+          "Receive": 10979034.0,
+          "Invest": 256160.0,
+          "Delta": 10722874.0
+        },
+        {
+          "RegionCode": 71000000,
+          "Receive": 58327360.0,
+          "Invest": 97368131.0,
+          "Delta": -39040771.0
+        },
+        {
+          "RegionCode": 75000000,
+          "Receive": 5892562.0,
+          "Invest": 21241136.0,
+          "Delta": -15348574.0
+        },
+        {
+          "RegionCode": 4000000,
+          "Receive": 16215890.0,
+          "Invest": 25248519.0,
+          "Delta": -9032629.0
+        },
+        {
+          "RegionCode": 25000000,
+          "Receive": 268666.0,
+          "Invest": 2272452.0,
+          "Delta": -2003786.0
+        },
+        {
+          "RegionCode": 98000000,
+          "Receive": 8343985.0,
+          "Invest": 2617238.0,
+          "Delta": 5726747.0
+        },
+        {
+          "RegionCode": 14000000,
+          "Receive": 160883.0,
+          "Invest": 293504.0,
+          "Delta": -132621.0
+        },
+        {
+          "RegionCode": 15000000,
+          "Receive": 336918.0,
+          "Invest": 13.0,
+          "Delta": 336905.0
+        },
+        {
+          "RegionCode": 17000000,
+          "Receive": 2667869.0,
+          "Invest": 34465.0,
+          "Delta": 2633404.0
+        },
+        {
+          "RegionCode": 29000000,
+          "Receive": 239848.0,
+          "Invest": 35672.0,
+          "Delta": 204176.0
+        },
+        {
+          "RegionCode": 42000000,
+          "Receive": 10802176.0,
+          "Invest": 2163217.0,
+          "Delta": 8638959.0
+        },
+        {
+          "RegionCode": 66000000,
+          "Receive": 271558.0,
+          "Invest": 25352.0,
+          "Delta": 246206.0
+        },
+        {
+          "RegionCode": 78000000,
+          "Receive": 836639.0,
+          "Invest": 502528.0,
+          "Delta": 334111.0
+        },
+        {
+          "RegionCode": 86000000,
+          "Receive": 211504.0,
+          "Invest": 51333.0,
+          "Delta": 160171.0
+        },
+        {
+          "RegionCode": 11000000,
+          "Receive": 2667804.0,
+          "Invest": 134587.0,
+          "Delta": 2533217.0
+        },
+        {
+          "RegionCode": 49000000,
+          "Receive": 1461556.0,
+          "Invest": 108832.0,
+          "Delta": 1352724.0
+        },
+        {
+          "RegionCode": 58000000,
+          "Receive": 114963.0,
+          "Invest": 461.0,
+          "Delta": 114502.0
+        },
+        {
+          "RegionCode": 7000000,
+          "Receive": 104038.0,
+          "Invest": 34522.0,
+          "Delta": 69516.0
+        },
+        {
+          "RegionCode": 80000000,
+          "Receive": 910731.0,
+          "Invest": 2462.0,
+          "Delta": 908269.0
+        },
+        {
+          "RegionCode": 97000000,
+          "Receive": 212762.0,
+          "Invest": 50.0,
+          "Delta": 212712.0
+        },
+        {
+          "RegionCode": 57000000,
+          "Receive": 3342021.0,
+          "Invest": 10080059.0,
+          "Delta": -6738038.0
+        },
+        {
+          "RegionCode": 33000000,
+          "Receive": 67822.0,
+          "Invest": 7057.0,
+          "Delta": 60765.0
+        },
+        {
+          "RegionCode": 22000000,
+          "Receive": 486328.0,
+          "Invest": 950.0,
+          "Delta": 485378.0
+        },
+        {
+          "RegionCode": 53000000,
+          "Receive": 874609.0,
+          "Invest": 1605775.0,
+          "Delta": -731166.0
+        },
+        {
+          "RegionCode": 56000000,
+          "Receive": 20810.0,
+          "Invest": 1794.0,
+          "Delta": 19016.0
+        },
+        {
+          "RegionCode": 65000000,
+          "Receive": 5168279.0,
+          "Invest": 421872.0,
+          "Delta": 4746407.0
+        },
+        {
+          "RegionCode": 71100000,
+          "Receive": 40024387.0,
+          "Invest": 97337273.0,
+          "Delta": -57312886.0
+        },
+        {
+          "RegionCode": 81000000,
+          "Receive": 98660.0,
+          "Invest": 17087.0,
+          "Delta": 81573.0
+        },
+        {
+          "RegionCode": 95000000,
+          "Receive": 2838.0,
+          "Invest": 392.0,
+          "Delta": 2446.0
+        },
+        {
+          "RegionCode": 32000000,
+          "Receive": 527386.0,
+          "Invest": 22215.0,
+          "Delta": 505171.0
+        },
+        {
+          "RegionCode": 50000000,
+          "Receive": 150152.0,
+          "Invest": 54788027.0,
+          "Delta": -54637875.0
+        },
+        {
+          "RegionCode": 52000000,
+          "Receive": 10855591.0,
+          "Invest": 39226204.0,
+          "Delta": -28370613.0
+        },
+        {
+          "RegionCode": 69000000,
+          "Receive": 661201.0,
+          "Invest": 1.0,
+          "Delta": 661200.0
+        },
+        {
+          "RegionCode": 44000000,
+          "Receive": 339952.0,
+          "Invest": 298203.0,
+          "Delta": 41749.0
+        },
+        {
+          "RegionCode": 64000000,
+          "Receive": 39271380.0,
+          "Invest": 1309263.0,
+          "Delta": 37962117.0
+        },
+        {
+          "RegionCode": 18000000,
+          "Receive": 821396.0,
+          "Invest": 41190.0,
+          "Delta": 780206.0
+        },
+        {
+          "RegionCode": 60000000,
+          "Receive": 2630103.0,
+          "Invest": 4751364.0,
+          "Delta": -2121261.0
+        },
+        {
+          "RegionCode": 20000000,
+          "Receive": 574768.0,
+          "Invest": 0.0,
+          "Delta": 574768.0
+        },
+        {
+          "RegionCode": 24000000,
+          "Receive": 27176.0,
+          "Invest": 0.0,
+          "Delta": 27176.0
+        },
+        {
+          "RegionCode": 34000000,
+          "Receive": 3044764.0,
+          "Invest": 0.0,
+          "Delta": 3044764.0
+        },
+        {
+          "RegionCode": 38000000,
+          "Receive": 268282.0,
+          "Invest": 0.0,
+          "Delta": 268282.0
+        },
+        {
+          "RegionCode": 54000000,
+          "Receive": 23356.0,
+          "Invest": 0.0,
+          "Delta": 23356.0
+        },
+        {
+          "RegionCode": 68000000,
+          "Receive": 57047.0,
+          "Invest": 0.0,
+          "Delta": 57047.0
+        },
+        {
+          "RegionCode": 28000000,
+          "Receive": 20786.0,
+          "Invest": 0.0,
+          "Delta": 20786.0
+        },
+        {
+          "RegionCode": 87000000,
+          "Receive": 728906.0,
+          "Invest": 0.0,
+          "Delta": 728906.0
+        },
+        {
+          "RegionCode": 11100000,
+          "Receive": 394050.0,
+          "Invest": 0.0,
+          "Delta": 394050.0
+        },
+        {
+          "RegionCode": 27000000,
+          "Receive": 618668.0,
+          "Invest": 0.0,
+          "Delta": 618668.0
+        },
+        {
+          "RegionCode": 41000000,
+          "Receive": 1608651.0,
+          "Invest": 0.0,
+          "Delta": 1608651.0
+        },
+        {
+          "RegionCode": 90000000,
+          "Receive": 145753.0,
+          "Invest": 0.0,
+          "Delta": 145753.0
+        },
+        {
+          "RegionCode": 89000000,
+          "Receive": 348547.0,
+          "Invest": 0.0,
+          "Delta": 348547.0
+        },
+        {
+          "RegionCode": 94000000,
+          "Receive": 71085.0,
+          "Invest": 0.0,
+          "Delta": 71085.0
+        },
+        {
+          "RegionCode": 57100000,
+          "Receive": 4689.0,
+          "Invest": 0.0,
+          "Delta": 4689.0
+        },
+        {
+          "RegionCode": 63000000,
+          "Receive": 31080.0,
+          "Invest": 0.0,
+          "Delta": 31080.0
+        },
+        {
+          "RegionCode": 37000000,
+          "Receive": 2688.0,
+          "Invest": 0.0,
+          "Delta": 2688.0
+        },
+        {
+          "RegionCode": 71140000,
+          "Receive": 6645022.0,
+          "Invest": 0.0,
+          "Delta": 6645022.0
+        },
+        {
+          "RegionCode": 1000000,
+          "Receive": 15055.0,
+          "Invest": 0.0,
+          "Delta": 15055.0
+        },
+        {
+          "RegionCode": 76000000,
+          "Receive": 552437.0,
+          "Invest": 0.0,
+          "Delta": 552437.0
+        },
+        {
+          "RegionCode": 30000000,
+          "Receive": 396455.0,
+          "Invest": 0.0,
+          "Delta": 396455.0
+        },
+        {
+          "RegionCode": 5000000,
+          "Receive": 976857.0,
+          "Invest": 0.0,
+          "Delta": 976857.0
+        },
+        {
+          "RegionCode": 8000000,
+          "Receive": 962116.0,
+          "Invest": 0.0,
+          "Delta": 962116.0
+        },
+        {
+          "RegionCode": 10000000,
+          "Receive": 427236.0,
+          "Invest": 0.0,
+          "Delta": 427236.0
+        },
+        {
+          "RegionCode": 99000000,
+          "Receive": 4773.0,
+          "Invest": 0.0,
+          "Delta": 4773.0
+        },
+        {
+          "RegionCode": 79000000,
+          "Receive": 31437.0,
+          "Invest": 0.0,
+          "Delta": 31437.0
+        },
+        {
+          "RegionCode": 3000000,
+          "Receive": 2751604.0,
+          "Invest": 0.0,
+          "Delta": 2751604.0
+        },
+        {
+          "RegionCode": 12000000,
+          "Receive": 402554.0,
+          "Invest": 0.0,
+          "Delta": 402554.0
+        },
+        {
+          "RegionCode": 88000000,
+          "Receive": 2169.0,
+          "Invest": 0.0,
+          "Delta": 2169.0
+        },
+        {
+          "RegionCode": 73000000,
+          "Receive": 47953.0,
+          "Invest": 0.0,
+          "Delta": 47953.0
+        },
+        {
+          "RegionCode": 30100000,
+          "Receive": 6670.0,
+          "Invest": 0.0,
+          "Delta": 6670.0
+        }
+      ]
+    },
+    {
+      "Year": 2005,
+      "Regions": [
+        {
+          "RegionCode": 42000000,
+          "Receive": 442051.0,
+          "Invest": 389964.0,
+          "Delta": 52087.0
+        },
+        {
+          "RegionCode": 46000000,
+          "Receive": 27374237.0,
+          "Invest": 35435.0,
+          "Delta": 27338802.0
+        },
+        {
+          "RegionCode": 54000000,
+          "Receive": 193435.0,
+          "Invest": 300.0,
+          "Delta": 193135.0
+        },
+        {
+          "RegionCode": 78000000,
+          "Receive": 771447.0,
+          "Invest": 717515.0,
+          "Delta": 53932.0
+        },
+        {
+          "RegionCode": 45000000,
+          "Receive": 251171095.0,
+          "Invest": 10058744.0,
+          "Delta": 241112351.0
+        },
+        {
+          "RegionCode": 19000000,
+          "Receive": 4309581.0,
+          "Invest": 12282296.0,
+          "Delta": -7972715.0
+        },
+        {
+          "RegionCode": 40000000,
+          "Receive": 14171641.0,
+          "Invest": 80608704.0,
+          "Delta": -66437063.0
+        },
+        {
+          "RegionCode": 92000000,
+          "Receive": 4326398.0,
+          "Invest": 48303.0,
+          "Delta": 4278095.0
+        },
+        {
+          "RegionCode": 57000000,
+          "Receive": 1897151.0,
+          "Invest": 8042256.0,
+          "Delta": -6145105.0
+        },
+        {
+          "RegionCode": 22000000,
+          "Receive": 1027531.0,
+          "Invest": 42713.0,
+          "Delta": 984818.0
+        },
+        {
+          "RegionCode": 37000000,
+          "Receive": 48562.0,
+          "Invest": 489.0,
+          "Delta": 48073.0
+        },
+        {
+          "RegionCode": 65000000,
+          "Receive": 10938272.0,
+          "Invest": 1886555.0,
+          "Delta": 9051717.0
+        },
+        {
+          "RegionCode": 4000000,
+          "Receive": 6606907.0,
+          "Invest": 541443.0,
+          "Delta": 6065464.0
+        },
+        {
+          "RegionCode": 25000000,
+          "Receive": 2170693.0,
+          "Invest": 95557.0,
+          "Delta": 2075136.0
+        },
+        {
+          "RegionCode": 52000000,
+          "Receive": 51457591.0,
+          "Invest": 74902743.0,
+          "Delta": -23445152.0
+        },
+        {
+          "RegionCode": 18000000,
+          "Receive": 163922.0,
+          "Invest": 498314.0,
+          "Delta": -334392.0
+        },
+        {
+          "RegionCode": 14000000,
+          "Receive": 210532.0,
+          "Invest": 449495.0,
+          "Delta": -238963.0
+        },
+        {
+          "RegionCode": 15000000,
+          "Receive": 126423.0,
+          "Invest": 369.0,
+          "Delta": 126054.0
+        },
+        {
+          "RegionCode": 17000000,
+          "Receive": 823600.0,
+          "Invest": 12604.0,
+          "Delta": 810996.0
+        },
+        {
+          "RegionCode": 20000000,
+          "Receive": 533460.0,
+          "Invest": 30753.0,
+          "Delta": 502707.0
+        },
+        {
+          "RegionCode": 29000000,
+          "Receive": 253424.0,
+          "Invest": 29802.0,
+          "Delta": 223622.0
+        },
+        {
+          "RegionCode": 66000000,
+          "Receive": 73284.0,
+          "Invest": 27248.0,
+          "Delta": 46036.0
+        },
+        {
+          "RegionCode": 86000000,
+          "Receive": 745345.0,
+          "Invest": 53508.0,
+          "Delta": 691837.0
+        },
+        {
+          "RegionCode": 11000000,
+          "Receive": 5536771.0,
+          "Invest": 1313194.0,
+          "Delta": 4223577.0
+        },
+        {
+          "RegionCode": 47000000,
+          "Receive": 294244.0,
+          "Invest": 1853.0,
+          "Delta": 292391.0
+        },
+        {
+          "RegionCode": 49000000,
+          "Receive": 2790962.0,
+          "Invest": 247393.0,
+          "Delta": 2543569.0
+        },
+        {
+          "RegionCode": 7000000,
+          "Receive": 610383.0,
+          "Invest": 54873.0,
+          "Delta": 555510.0
+        },
+        {
+          "RegionCode": 80000000,
+          "Receive": 2427340.0,
+          "Invest": 6951.0,
+          "Delta": 2420389.0
+        },
+        {
+          "RegionCode": 97000000,
+          "Receive": 140074.0,
+          "Invest": 558.0,
+          "Delta": 139516.0
+        },
+        {
+          "RegionCode": 53000000,
+          "Receive": 1126222.0,
+          "Invest": 1532822.0,
+          "Delta": -406600.0
+        },
+        {
+          "RegionCode": 36000000,
+          "Receive": 9226391.0,
+          "Invest": 1598838.0,
+          "Delta": 7627553.0
+        },
+        {
+          "RegionCode": 71000000,
+          "Receive": 34332486.0,
+          "Invest": 17116.0,
+          "Delta": 34315370.0
+        },
+        {
+          "RegionCode": 71100000,
+          "Receive": 1168398.0,
+          "Invest": 1845.0,
+          "Delta": 1166553.0
+        },
+        {
+          "RegionCode": 75000000,
+          "Receive": 8231854.0,
+          "Invest": 24953971.0,
+          "Delta": -16722117.0
+        },
+        {
+          "RegionCode": 81000000,
+          "Receive": 496344.0,
+          "Invest": 148899.0,
+          "Delta": 347445.0
+        },
+        {
+          "RegionCode": 95000000,
+          "Receive": 30722.0,
+          "Invest": 11502.0,
+          "Delta": 19220.0
+        },
+        {
+          "RegionCode": 32000000,
+          "Receive": 5475924.0,
+          "Invest": 30052.0,
+          "Delta": 5445872.0
+        },
+        {
+          "RegionCode": 50000000,
+          "Receive": 717354.0,
+          "Invest": 75275929.0,
+          "Delta": -74558575.0
+        },
+        {
+          "RegionCode": 98000000,
+          "Receive": 6690167.0,
+          "Invest": 391451.0,
+          "Delta": 6298716.0
+        },
+        {
+          "RegionCode": 44000000,
+          "Receive": 28420.0,
+          "Invest": 59284.0,
+          "Delta": -30864.0
+        },
+        {
+          "RegionCode": 64000000,
+          "Receive": 48615633.0,
+          "Invest": 2854516.0,
+          "Delta": 45761117.0
+        },
+        {
+          "RegionCode": 60000000,
+          "Receive": 4120295.0,
+          "Invest": 4894355.0,
+          "Delta": -774060.0
+        },
+        {
+          "RegionCode": 27000000,
+          "Receive": 752811.0,
+          "Invest": 2812392.0,
+          "Delta": -2059581.0
+        },
+        {
+          "RegionCode": 24000000,
+          "Receive": 8954.0,
+          "Invest": 0.0,
+          "Delta": 8954.0
+        },
+        {
+          "RegionCode": 34000000,
+          "Receive": 1553358.0,
+          "Invest": 0.0,
+          "Delta": 1553358.0
+        },
+        {
+          "RegionCode": 38000000,
+          "Receive": 4850.0,
+          "Invest": 0.0,
+          "Delta": 4850.0
+        },
+        {
+          "RegionCode": 61000000,
+          "Receive": 16943.0,
+          "Invest": 0.0,
+          "Delta": 16943.0
+        },
+        {
+          "RegionCode": 68000000,
+          "Receive": 32156.0,
+          "Invest": 0.0,
+          "Delta": 32156.0
+        },
+        {
+          "RegionCode": 28000000,
+          "Receive": 5236.0,
+          "Invest": 0.0,
+          "Delta": 5236.0
+        },
+        {
+          "RegionCode": 70000000,
+          "Receive": 2355575.0,
+          "Invest": 0.0,
+          "Delta": 2355575.0
+        },
+        {
+          "RegionCode": 87000000,
+          "Receive": 1598269.0,
+          "Invest": 0.0,
+          "Delta": 1598269.0
+        },
+        {
+          "RegionCode": 11100000,
+          "Receive": 5537984.0,
+          "Invest": 0.0,
+          "Delta": 5537984.0
+        },
+        {
+          "RegionCode": 41000000,
+          "Receive": 3512267.0,
+          "Invest": 0.0,
+          "Delta": 3512267.0
+        },
+        {
+          "RegionCode": 58000000,
+          "Receive": 82687.0,
+          "Invest": 0.0,
+          "Delta": 82687.0
+        },
+        {
+          "RegionCode": 88000000,
+          "Receive": 51987.0,
+          "Invest": 0.0,
+          "Delta": 51987.0
+        },
+        {
+          "RegionCode": 89000000,
+          "Receive": 126973.0,
+          "Invest": 0.0,
+          "Delta": 126973.0
+        },
+        {
+          "RegionCode": 94000000,
+          "Receive": 790916.0,
+          "Invest": 0.0,
+          "Delta": 790916.0
+        },
+        {
+          "RegionCode": 57100000,
+          "Receive": 565.0,
+          "Invest": 0.0,
+          "Delta": 565.0
+        },
+        {
+          "RegionCode": 33000000,
+          "Receive": 76800.0,
+          "Invest": 0.0,
+          "Delta": 76800.0
+        },
+        {
+          "RegionCode": 56000000,
+          "Receive": 39089.0,
+          "Invest": 0.0,
+          "Delta": 39089.0
+        },
+        {
+          "RegionCode": 63000000,
+          "Receive": 36180.0,
+          "Invest": 0.0,
+          "Delta": 36180.0
+        },
+        {
+          "RegionCode": 71140000,
+          "Receive": 648698.0,
+          "Invest": 0.0,
+          "Delta": 648698.0
+        },
+        {
+          "RegionCode": 1000000,
+          "Receive": 16018.0,
+          "Invest": 0.0,
+          "Delta": 16018.0
+        },
+        {
+          "RegionCode": 76000000,
+          "Receive": 28808.0,
+          "Invest": 0.0,
+          "Delta": 28808.0
+        },
+        {
+          "RegionCode": 76100000,
+          "Receive": 71.0,
+          "Invest": 0.0,
+          "Delta": 71.0
+        },
+        {
+          "RegionCode": 69000000,
+          "Receive": 641172.0,
+          "Invest": 0.0,
+          "Delta": 641172.0
+        },
+        {
+          "RegionCode": 30000000,
+          "Receive": 280678.0,
+          "Invest": 0.0,
+          "Delta": 280678.0
+        },
+        {
+          "RegionCode": 5000000,
+          "Receive": 300917.0,
+          "Invest": 0.0,
+          "Delta": 300917.0
+        },
+        {
+          "RegionCode": 8000000,
+          "Receive": 2452519.0,
+          "Invest": 0.0,
+          "Delta": 2452519.0
+        },
+        {
+          "RegionCode": 10000000,
+          "Receive": 953298.0,
+          "Invest": 0.0,
+          "Delta": 953298.0
+        },
+        {
+          "RegionCode": 99000000,
+          "Receive": 18629.0,
+          "Invest": 0.0,
+          "Delta": 18629.0
+        },
+        {
+          "RegionCode": 79000000,
+          "Receive": 15555.0,
+          "Invest": 0.0,
+          "Delta": 15555.0
+        },
+        {
+          "RegionCode": 3000000,
+          "Receive": 4639263.0,
+          "Invest": 0.0,
+          "Delta": 4639263.0
+        },
+        {
+          "RegionCode": 12000000,
+          "Receive": 323245.0,
+          "Invest": 0.0,
+          "Delta": 323245.0
+        },
+        {
+          "RegionCode": 30100000,
+          "Receive": 5600.0,
+          "Invest": 0.0,
+          "Delta": 5600.0
+        },
+        {
+          "RegionCode": 73000000,
+          "Receive": 2125.0,
+          "Invest": 0.0,
+          "Delta": 2125.0
+        }
+      ]
+    },
+    {
+      "Year": 2006,
+      "Regions": [
+        {
+          "RegionCode": 14000000,
+          "Receive": 8424019.0,
+          "Invest": 380018.0,
+          "Delta": 8044001.0
+        },
+        {
+          "RegionCode": 29000000,
+          "Receive": 8988115.0,
+          "Invest": 17323.0,
+          "Delta": 8970792.0
+        },
+        {
+          "RegionCode": 42000000,
+          "Receive": 6293725.0,
+          "Invest": 3642413.0,
+          "Delta": 2651312.0
+        },
+        {
+          "RegionCode": 46000000,
+          "Receive": 464054412.0,
+          "Invest": 13999155.0,
+          "Delta": 450055257.0
+        },
+        {
+          "RegionCode": 54000000,
+          "Receive": 4345851.0,
+          "Invest": 80.0,
+          "Delta": 4345771.0
+        },
+        {
+          "RegionCode": 45000000,
+          "Receive": 2398626660.0,
+          "Invest": 198407822.0,
+          "Delta": 2200218838.0
+        },
+        {
+          "RegionCode": 19000000,
+          "Receive": 5303041.0,
+          "Invest": 15401423.0,
+          "Delta": -10098382.0
+        },
+        {
+          "RegionCode": 49000000,
+          "Receive": 28419772.0,
+          "Invest": 3408365.0,
+          "Delta": 25011407.0
+        },
+        {
+          "RegionCode": 58000000,
+          "Receive": 1541689.0,
+          "Invest": 1243.0,
+          "Delta": 1540446.0
+        },
+        {
+          "RegionCode": 40000000,
+          "Receive": 525480378.0,
+          "Invest": 2218926643.0,
+          "Delta": -1693446265.0
+        },
+        {
+          "RegionCode": 92000000,
+          "Receive": 48366247.0,
+          "Invest": 1325331.0,
+          "Delta": 47040916.0
+        },
+        {
+          "RegionCode": 57000000,
+          "Receive": 15065882.0,
+          "Invest": 67780450.0,
+          "Delta": -52714568.0
+        },
+        {
+          "RegionCode": 36000000,
+          "Receive": 172046798.0,
+          "Invest": 3135180.0,
+          "Delta": 168911618.0
+        },
+        {
+          "RegionCode": 65000000,
+          "Receive": 138982728.0,
+          "Invest": 7017724.0,
+          "Delta": 131965004.0
+        },
+        {
+          "RegionCode": 71000000,
+          "Receive": 142326435.0,
+          "Invest": 9744897.0,
+          "Delta": 132581538.0
+        },
+        {
+          "RegionCode": 75000000,
+          "Receive": 146320925.0,
+          "Invest": 264910273.0,
+          "Delta": -118589348.0
+        },
+        {
+          "RegionCode": 4000000,
+          "Receive": 14618087.0,
+          "Invest": 1522852.0,
+          "Delta": 13095235.0
+        },
+        {
+          "RegionCode": 32000000,
+          "Receive": 28568578.0,
+          "Invest": 9742057.0,
+          "Delta": 18826521.0
+        },
+        {
+          "RegionCode": 64000000,
+          "Receive": 538213262.0,
+          "Invest": 4178388.0,
+          "Delta": 534034874.0
+        },
+        {
+          "RegionCode": 18000000,
+          "Receive": 2992260.0,
+          "Invest": 5402707.0,
+          "Delta": -2410447.0
+        },
+        {
+          "RegionCode": 60000000,
+          "Receive": 38948207.0,
+          "Invest": 71873911.0,
+          "Delta": -32925704.0
+        },
+        {
+          "RegionCode": 15000000,
+          "Receive": 130015.0,
+          "Invest": 9432.0,
+          "Delta": 120583.0
+        },
+        {
+          "RegionCode": 17000000,
+          "Receive": 33609427.0,
+          "Invest": 488579.0,
+          "Delta": 33120848.0
+        },
+        {
+          "RegionCode": 20000000,
+          "Receive": 10788990.0,
+          "Invest": 32676204.0,
+          "Delta": -21887214.0
+        },
+        {
+          "RegionCode": 66000000,
+          "Receive": 610391.0,
+          "Invest": 4455.0,
+          "Delta": 605936.0
+        },
+        {
+          "RegionCode": 78000000,
+          "Receive": 4253108.0,
+          "Invest": 9884325.0,
+          "Delta": -5631217.0
+        },
+        {
+          "RegionCode": 86000000,
+          "Receive": 28798607.0,
+          "Invest": 43656.0,
+          "Delta": 28754951.0
+        },
+        {
+          "RegionCode": 11000000,
+          "Receive": 19909194.0,
+          "Invest": 16475158.0,
+          "Delta": 3434036.0
+        },
+        {
+          "RegionCode": 47000000,
+          "Receive": 10187175.0,
+          "Invest": 236.0,
+          "Delta": 10186939.0
+        },
+        {
+          "RegionCode": 7000000,
+          "Receive": 2078970.0,
+          "Invest": 10083.0,
+          "Delta": 2068887.0
+        },
+        {
+          "RegionCode": 80000000,
+          "Receive": 6127662.0,
+          "Invest": 1221.0,
+          "Delta": 6126441.0
+        },
+        {
+          "RegionCode": 94000000,
+          "Receive": 4170287.0,
+          "Invest": 236172.0,
+          "Delta": 3934115.0
+        },
+        {
+          "RegionCode": 97000000,
+          "Receive": 1374997.0,
+          "Invest": 7661.0,
+          "Delta": 1367336.0
+        },
+        {
+          "RegionCode": 22000000,
+          "Receive": 21610515.0,
+          "Invest": 66856.0,
+          "Delta": 21543659.0
+        },
+        {
+          "RegionCode": 53000000,
+          "Receive": 7002030.0,
+          "Invest": 16216319.0,
+          "Delta": -9214289.0
+        },
+        {
+          "RegionCode": 56000000,
+          "Receive": 1542001.0,
+          "Invest": 656.0,
+          "Delta": 1541345.0
+        },
+        {
+          "RegionCode": 81000000,
+          "Receive": 1053848.0,
+          "Invest": 365251.0,
+          "Delta": 688597.0
+        },
+        {
+          "RegionCode": 25000000,
+          "Receive": 43547082.0,
+          "Invest": 10500718.0,
+          "Delta": 33046364.0
+        },
+        {
+          "RegionCode": 50000000,
+          "Receive": 8070689.0,
+          "Invest": 108061674.0,
+          "Delta": -99990985.0
+        },
+        {
+          "RegionCode": 52000000,
+          "Receive": 46954076.0,
+          "Invest": 33963582.0,
+          "Delta": 12990494.0
+        },
+        {
+          "RegionCode": 98000000,
+          "Receive": 4331235.0,
+          "Invest": 8303969.0,
+          "Delta": -3972734.0
+        },
+        {
+          "RegionCode": 70000000,
+          "Receive": 27616026.0,
+          "Invest": 819.0,
+          "Delta": 27615207.0
+        },
+        {
+          "RegionCode": 24000000,
+          "Receive": 3582032.0,
+          "Invest": 0.0,
+          "Delta": 3582032.0
+        },
+        {
+          "RegionCode": 34000000,
+          "Receive": 9887396.0,
+          "Invest": 0.0,
+          "Delta": 9887396.0
+        },
+        {
+          "RegionCode": 38000000,
+          "Receive": 2383941.0,
+          "Invest": 0.0,
+          "Delta": 2383941.0
+        },
+        {
+          "RegionCode": 61000000,
+          "Receive": 952504.0,
+          "Invest": 0.0,
+          "Delta": 952504.0
+        },
+        {
+          "RegionCode": 68000000,
+          "Receive": 305243.0,
+          "Invest": 0.0,
+          "Delta": 305243.0
+        },
+        {
+          "RegionCode": 28000000,
+          "Receive": 1175548.0,
+          "Invest": 0.0,
+          "Delta": 1175548.0
+        },
+        {
+          "RegionCode": 87000000,
+          "Receive": 32107067.0,
+          "Invest": 0.0,
+          "Delta": 32107067.0
+        },
+        {
+          "RegionCode": 11100000,
+          "Receive": 50011853.0,
+          "Invest": 0.0,
+          "Delta": 50011853.0
+        },
+        {
+          "RegionCode": 27000000,
+          "Receive": 4376910.0,
+          "Invest": 0.0,
+          "Delta": 4376910.0
+        },
+        {
+          "RegionCode": 41000000,
+          "Receive": 54035682.0,
+          "Invest": 0.0,
+          "Delta": 54035682.0
+        },
+        {
+          "RegionCode": 88000000,
+          "Receive": 153980.0,
+          "Invest": 0.0,
+          "Delta": 153980.0
+        },
+        {
+          "RegionCode": 89000000,
+          "Receive": 146310.0,
+          "Invest": 0.0,
+          "Delta": 146310.0
+        },
+        {
+          "RegionCode": 33000000,
+          "Receive": 710314.0,
+          "Invest": 0.0,
+          "Delta": 710314.0
+        },
+        {
+          "RegionCode": 63000000,
+          "Receive": 1523237.0,
+          "Invest": 0.0,
+          "Delta": 1523237.0
+        },
+        {
+          "RegionCode": 73000000,
+          "Receive": 4325218.0,
+          "Invest": 0.0,
+          "Delta": 4325218.0
+        },
+        {
+          "RegionCode": 37000000,
+          "Receive": 580737.0,
+          "Invest": 0.0,
+          "Delta": 580737.0
+        },
+        {
+          "RegionCode": 71100000,
+          "Receive": 16670832.0,
+          "Invest": 0.0,
+          "Delta": 16670832.0
+        },
+        {
+          "RegionCode": 71140000,
+          "Receive": 3492803.0,
+          "Invest": 0.0,
+          "Delta": 3492803.0
+        },
+        {
+          "RegionCode": 95000000,
+          "Receive": 244640.0,
+          "Invest": 0.0,
+          "Delta": 244640.0
+        },
+        {
+          "RegionCode": 1000000,
+          "Receive": 279589.0,
+          "Invest": 0.0,
+          "Delta": 279589.0
+        },
+        {
+          "RegionCode": 76000000,
+          "Receive": 6378469.0,
+          "Invest": 0.0,
+          "Delta": 6378469.0
+        },
+        {
+          "RegionCode": 76100000,
+          "Receive": 680459.0,
+          "Invest": 0.0,
+          "Delta": 680459.0
+        },
+        {
+          "RegionCode": 69000000,
+          "Receive": 20908213.0,
+          "Invest": 0.0,
+          "Delta": 20908213.0
+        },
+        {
+          "RegionCode": 30000000,
+          "Receive": 1971639.0,
+          "Invest": 0.0,
+          "Delta": 1971639.0
+        },
+        {
+          "RegionCode": 5000000,
+          "Receive": 2293625.0,
+          "Invest": 0.0,
+          "Delta": 2293625.0
+        },
+        {
+          "RegionCode": 8000000,
+          "Receive": 21756123.0,
+          "Invest": 0.0,
+          "Delta": 21756123.0
+        },
+        {
+          "RegionCode": 10000000,
+          "Receive": 1224837.0,
+          "Invest": 0.0,
+          "Delta": 1224837.0
+        },
+        {
+          "RegionCode": 44000000,
+          "Receive": 736231.0,
+          "Invest": 0.0,
+          "Delta": 736231.0
+        },
+        {
+          "RegionCode": 99000000,
+          "Receive": 78581.0,
+          "Invest": 0.0,
+          "Delta": 78581.0
+        },
+        {
+          "RegionCode": 79000000,
+          "Receive": 276117.0,
+          "Invest": 0.0,
+          "Delta": 276117.0
+        },
+        {
+          "RegionCode": 3000000,
+          "Receive": 75158971.0,
+          "Invest": 0.0,
+          "Delta": 75158971.0
+        },
+        {
+          "RegionCode": 12000000,
+          "Receive": 6253871.0,
+          "Invest": 0.0,
+          "Delta": 6253871.0
+        },
+        {
+          "RegionCode": 30100000,
+          "Receive": 26595.0,
+          "Invest": 0.0,
+          "Delta": 26595.0
+        }
+      ]
+    },
+    {
+      "Year": 2007,
+      "Regions": [
+        {
+          "RegionCode": 15000000,
+          "Receive": 1722559.0,
+          "Invest": 62463.0,
+          "Delta": 1660096.0
+        },
+        {
+          "RegionCode": 38000000,
+          "Receive": 3221934.0,
+          "Invest": 47.0,
+          "Delta": 3221887.0
+        },
+        {
+          "RegionCode": 42000000,
+          "Receive": 19890184.0,
+          "Invest": 30539164.0,
+          "Delta": -10648980.0
+        },
+        {
+          "RegionCode": 46000000,
+          "Receive": 518882658.0,
+          "Invest": 3392614.0,
+          "Delta": 515490044.0
+        },
+        {
+          "RegionCode": 45000000,
+          "Receive": 7087342515.0,
+          "Invest": 970245252.0,
+          "Delta": 6117097263.0
+        },
+        {
+          "RegionCode": 86000000,
+          "Receive": 15751287.0,
+          "Invest": 7070292.0,
+          "Delta": 8680995.0
+        },
+        {
+          "RegionCode": 19000000,
+          "Receive": 17783929.0,
+          "Invest": 10852467.0,
+          "Delta": 6931462.0
+        },
+        {
+          "RegionCode": 49000000,
+          "Receive": 29594346.0,
+          "Invest": 450296.0,
+          "Delta": 29144050.0
+        },
+        {
+          "RegionCode": 58000000,
+          "Receive": 786480.0,
+          "Invest": 18703.0,
+          "Delta": 767777.0
+        },
+        {
+          "RegionCode": 92000000,
+          "Receive": 167935457.0,
+          "Invest": 7117243.0,
+          "Delta": 160818214.0
+        },
+        {
+          "RegionCode": 57000000,
+          "Receive": 22558430.0,
+          "Invest": 83611156.0,
+          "Delta": -61052726.0
+        },
+        {
+          "RegionCode": 22000000,
+          "Receive": 40960121.0,
+          "Invest": 6179525.0,
+          "Delta": 34780596.0
+        },
+        {
+          "RegionCode": 56000000,
+          "Receive": 2268876.0,
+          "Invest": 59935.0,
+          "Delta": 2208941.0
+        },
+        {
+          "RegionCode": 36000000,
+          "Receive": 31888999.0,
+          "Invest": 3098743.0,
+          "Delta": 28790256.0
+        },
+        {
+          "RegionCode": 65000000,
+          "Receive": 133826883.0,
+          "Invest": 14094228.0,
+          "Delta": 119732655.0
+        },
+        {
+          "RegionCode": 71000000,
+          "Receive": 55833997.0,
+          "Invest": 1463391.0,
+          "Delta": 54370606.0
+        },
+        {
+          "RegionCode": 75000000,
+          "Receive": 132583650.0,
+          "Invest": 371168183.0,
+          "Delta": -238584533.0
+        },
+        {
+          "RegionCode": 4000000,
+          "Receive": 104410761.0,
+          "Invest": 6976217.0,
+          "Delta": 97434544.0
+        },
+        {
+          "RegionCode": 50000000,
+          "Receive": 21989691.0,
+          "Invest": 135791078.0,
+          "Delta": -113801387.0
+        },
+        {
+          "RegionCode": 52000000,
+          "Receive": 60070569.0,
+          "Invest": 56327792.0,
+          "Delta": 3742777.0
+        },
+        {
+          "RegionCode": 98000000,
+          "Receive": 11247502.0,
+          "Invest": 9585000.0,
+          "Delta": 1662502.0
+        },
+        {
+          "RegionCode": 3000000,
+          "Receive": 56005408.0,
+          "Invest": 1.0,
+          "Delta": 56005407.0
+        },
+        {
+          "RegionCode": 18000000,
+          "Receive": 18426629.0,
+          "Invest": 6285355.0,
+          "Delta": 12141274.0
+        },
+        {
+          "RegionCode": 60000000,
+          "Receive": 86521044.0,
+          "Invest": 117076984.0,
+          "Delta": -30555940.0
+        },
+        {
+          "RegionCode": 14000000,
+          "Receive": 53693324.0,
+          "Invest": 72164.0,
+          "Delta": 53621160.0
+        },
+        {
+          "RegionCode": 17000000,
+          "Receive": 20792079.0,
+          "Invest": 1444102.0,
+          "Delta": 19347977.0
+        },
+        {
+          "RegionCode": 20000000,
+          "Receive": 16028445.0,
+          "Invest": 2950217.0,
+          "Delta": 13078228.0
+        },
+        {
+          "RegionCode": 29000000,
+          "Receive": 16951758.0,
+          "Invest": 55716.0,
+          "Delta": 16896042.0
+        },
+        {
+          "RegionCode": 66000000,
+          "Receive": 117646.0,
+          "Invest": 166413.0,
+          "Delta": -48767.0
+        },
+        {
+          "RegionCode": 78000000,
+          "Receive": 5112142.0,
+          "Invest": 11936696.0,
+          "Delta": -6824554.0
+        },
+        {
+          "RegionCode": 87000000,
+          "Receive": 38941992.0,
+          "Invest": 1385182.0,
+          "Delta": 37556810.0
+        },
+        {
+          "RegionCode": 11000000,
+          "Receive": 98998661.0,
+          "Invest": 22449085.0,
+          "Delta": 76549576.0
+        },
+        {
+          "RegionCode": 47000000,
+          "Receive": 6252062.0,
+          "Invest": 1395.0,
+          "Delta": 6250667.0
+        },
+        {
+          "RegionCode": 40000000,
+          "Receive": 133346038.0,
+          "Invest": 2509056228.0,
+          "Delta": -2375710190.0
+        },
+        {
+          "RegionCode": 7000000,
+          "Receive": 29514224.0,
+          "Invest": 142.0,
+          "Delta": 29514082.0
+        },
+        {
+          "RegionCode": 89000000,
+          "Receive": 3360481.0,
+          "Invest": 981044.0,
+          "Delta": 2379437.0
+        },
+        {
+          "RegionCode": 97000000,
+          "Receive": 6726163.0,
+          "Invest": 9953.0,
+          "Delta": 6716210.0
+        },
+        {
+          "RegionCode": 33000000,
+          "Receive": 609618.0,
+          "Invest": 108013.0,
+          "Delta": 501605.0
+        },
+        {
+          "RegionCode": 53000000,
+          "Receive": 52944790.0,
+          "Invest": 34265166.0,
+          "Delta": 18679624.0
+        },
+        {
+          "RegionCode": 81000000,
+          "Receive": 10023971.0,
+          "Invest": 5224613.0,
+          "Delta": 4799358.0
+        },
+        {
+          "RegionCode": 25000000,
+          "Receive": 36049558.0,
+          "Invest": 30068685.0,
+          "Delta": 5980873.0
+        },
+        {
+          "RegionCode": 32000000,
+          "Receive": 57873705.0,
+          "Invest": 25626545.0,
+          "Delta": 32247160.0
+        },
+        {
+          "RegionCode": 69000000,
+          "Receive": 48018962.0,
+          "Invest": 379574.0,
+          "Delta": 47639388.0
+        },
+        {
+          "RegionCode": 64000000,
+          "Receive": 496376155.0,
+          "Invest": 3027112.0,
+          "Delta": 493349043.0
+        },
+        {
+          "RegionCode": 70000000,
+          "Receive": 17673954.0,
+          "Invest": 1022.0,
+          "Delta": 17672932.0
+        },
+        {
+          "RegionCode": 24000000,
+          "Receive": 4255460.0,
+          "Invest": 0.0,
+          "Delta": 4255460.0
+        },
+        {
+          "RegionCode": 34000000,
+          "Receive": 421445.0,
+          "Invest": 0.0,
+          "Delta": 421445.0
+        },
+        {
+          "RegionCode": 54000000,
+          "Receive": 4868051.0,
+          "Invest": 0.0,
+          "Delta": 4868051.0
+        },
+        {
+          "RegionCode": 61000000,
+          "Receive": 11869780.0,
+          "Invest": 0.0,
+          "Delta": 11869780.0
+        },
+        {
+          "RegionCode": 68000000,
+          "Receive": 159034.0,
+          "Invest": 0.0,
+          "Delta": 159034.0
+        },
+        {
+          "RegionCode": 28000000,
+          "Receive": 7823928.0,
+          "Invest": 0.0,
+          "Delta": 7823928.0
+        },
+        {
+          "RegionCode": 11100000,
+          "Receive": 79358284.0,
+          "Invest": 0.0,
+          "Delta": 79358284.0
+        },
+        {
+          "RegionCode": 27000000,
+          "Receive": 29884438.0,
+          "Invest": 0.0,
+          "Delta": 29884438.0
+        },
+        {
+          "RegionCode": 41000000,
+          "Receive": 101528552.0,
+          "Invest": 0.0,
+          "Delta": 101528552.0
+        },
+        {
+          "RegionCode": 82000000,
+          "Receive": 29386.0,
+          "Invest": 0.0,
+          "Delta": 29386.0
+        },
+        {
+          "RegionCode": 90000000,
+          "Receive": 5221713.0,
+          "Invest": 0.0,
+          "Delta": 5221713.0
+        },
+        {
+          "RegionCode": 80000000,
+          "Receive": 31961712.0,
+          "Invest": 0.0,
+          "Delta": 31961712.0
+        },
+        {
+          "RegionCode": 88000000,
+          "Receive": 301306.0,
+          "Invest": 0.0,
+          "Delta": 301306.0
+        },
+        {
+          "RegionCode": 94000000,
+          "Receive": 7802139.0,
+          "Invest": 0.0,
+          "Delta": 7802139.0
+        },
+        {
+          "RegionCode": 63000000,
+          "Receive": 9200087.0,
+          "Invest": 0.0,
+          "Delta": 9200087.0
+        },
+        {
+          "RegionCode": 73000000,
+          "Receive": 1324385.0,
+          "Invest": 0.0,
+          "Delta": 1324385.0
+        },
+        {
+          "RegionCode": 37000000,
+          "Receive": 2385992.0,
+          "Invest": 0.0,
+          "Delta": 2385992.0
+        },
+        {
+          "RegionCode": 71100000,
+          "Receive": 15265237.0,
+          "Invest": 0.0,
+          "Delta": 15265237.0
+        },
+        {
+          "RegionCode": 71140000,
+          "Receive": 1316647.0,
+          "Invest": 0.0,
+          "Delta": 1316647.0
+        },
+        {
+          "RegionCode": 95000000,
+          "Receive": 10344625.0,
+          "Invest": 0.0,
+          "Delta": 10344625.0
+        },
+        {
+          "RegionCode": 1000000,
+          "Receive": 178921.0,
+          "Invest": 0.0,
+          "Delta": 178921.0
+        },
+        {
+          "RegionCode": 76000000,
+          "Receive": 7616848.0,
+          "Invest": 0.0,
+          "Delta": 7616848.0
+        },
+        {
+          "RegionCode": 30000000,
+          "Receive": 3793860.0,
+          "Invest": 0.0,
+          "Delta": 3793860.0
+        },
+        {
+          "RegionCode": 5000000,
+          "Receive": 3130933.0,
+          "Invest": 0.0,
+          "Delta": 3130933.0
+        },
+        {
+          "RegionCode": 8000000,
+          "Receive": 24880634.0,
+          "Invest": 0.0,
+          "Delta": 24880634.0
+        },
+        {
+          "RegionCode": 10000000,
+          "Receive": 13061039.0,
+          "Invest": 0.0,
+          "Delta": 13061039.0
+        },
+        {
+          "RegionCode": 44000000,
+          "Receive": 1432397.0,
+          "Invest": 0.0,
+          "Delta": 1432397.0
+        },
+        {
+          "RegionCode": 99000000,
+          "Receive": 24636.0,
+          "Invest": 0.0,
+          "Delta": 24636.0
+        },
+        {
+          "RegionCode": 79000000,
+          "Receive": 836280.0,
+          "Invest": 0.0,
+          "Delta": 836280.0
+        },
+        {
+          "RegionCode": 12000000,
+          "Receive": 4155555.0,
+          "Invest": 0.0,
+          "Delta": 4155555.0
+        },
+        {
+          "RegionCode": 93000000,
+          "Receive": 354099.0,
+          "Invest": 0.0,
+          "Delta": 354099.0
+        },
+        {
+          "RegionCode": 76100000,
+          "Receive": 140.0,
+          "Invest": 0.0,
+          "Delta": 140.0
+        }
+      ]
+    },
+    {
+      "Year": 2008,
+      "Regions": [
+        {
+          "RegionCode": 20000000,
+          "Receive": 12035372.0,
+          "Invest": 49994172.0,
+          "Delta": -37958800.0
+        },
+        {
+          "RegionCode": 24000000,
+          "Receive": 11106873.0,
+          "Invest": 8104147.0,
+          "Delta": 3002726.0
+        },
+        {
+          "RegionCode": 38000000,
+          "Receive": 101984.0,
+          "Invest": 132197097.0,
+          "Delta": -132095113.0
+        },
+        {
+          "RegionCode": 42000000,
+          "Receive": 176328418.0,
+          "Invest": 61405515.0,
+          "Delta": 114922903.0
+        },
+        {
+          "RegionCode": 46000000,
+          "Receive": 668549636.0,
+          "Invest": 37359730.0,
+          "Delta": 631189906.0
+        },
+        {
+          "RegionCode": 61000000,
+          "Receive": 29594887.0,
+          "Invest": 1423.0,
+          "Delta": 29593464.0
+        },
+        {
+          "RegionCode": 70000000,
+          "Receive": 42947902.0,
+          "Invest": 6453.0,
+          "Delta": 42941449.0
+        },
+        {
+          "RegionCode": 45000000,
+          "Receive": 4083838772.0,
+          "Invest": 6822977319.0,
+          "Delta": -2739138547.0
+        },
+        {
+          "RegionCode": 86000000,
+          "Receive": 11051976.0,
+          "Invest": 1093218.0,
+          "Delta": 9958758.0
+        },
+        {
+          "RegionCode": 19000000,
+          "Receive": 413750318.0,
+          "Invest": 187803492.0,
+          "Delta": 225946826.0
+        },
+        {
+          "RegionCode": 49000000,
+          "Receive": 37184717.0,
+          "Invest": 97974.0,
+          "Delta": 37086743.0
+        },
+        {
+          "RegionCode": 40000000,
+          "Receive": 592756761.0,
+          "Invest": 1759596657.0,
+          "Delta": -1166839896.0
+        },
+        {
+          "RegionCode": 92000000,
+          "Receive": 259382779.0,
+          "Invest": 18915635.0,
+          "Delta": 240467144.0
+        },
+        {
+          "RegionCode": 94000000,
+          "Receive": 7839481.0,
+          "Invest": 132375.0,
+          "Delta": 7707106.0
+        },
+        {
+          "RegionCode": 57000000,
+          "Receive": 47519481.0,
+          "Invest": 40796486.0,
+          "Delta": 6722995.0
+        },
+        {
+          "RegionCode": 36000000,
+          "Receive": 265423652.0,
+          "Invest": 3916816.0,
+          "Delta": 261506836.0
+        },
+        {
+          "RegionCode": 65000000,
+          "Receive": 211382691.0,
+          "Invest": 24383624.0,
+          "Delta": 186999067.0
+        },
+        {
+          "RegionCode": 71000000,
+          "Receive": 122583563.0,
+          "Invest": 25256.0,
+          "Delta": 122558307.0
+        },
+        {
+          "RegionCode": 71100000,
+          "Receive": 29394307.0,
+          "Invest": 16100.0,
+          "Delta": 29378207.0
+        },
+        {
+          "RegionCode": 75000000,
+          "Receive": 316660730.0,
+          "Invest": 425276286.0,
+          "Delta": -108615556.0
+        },
+        {
+          "RegionCode": 4000000,
+          "Receive": 370744135.0,
+          "Invest": 697264826.0,
+          "Delta": -326520691.0
+        },
+        {
+          "RegionCode": 32000000,
+          "Receive": 91776400.0,
+          "Invest": 153468433.0,
+          "Delta": -61692033.0
+        },
+        {
+          "RegionCode": 52000000,
+          "Receive": 57834048.0,
+          "Invest": 6436031.0,
+          "Delta": 51398017.0
+        },
+        {
+          "RegionCode": 98000000,
+          "Receive": 64331172.0,
+          "Invest": 9019226.0,
+          "Delta": 55311946.0
+        },
+        {
+          "RegionCode": 5000000,
+          "Receive": 79421422.0,
+          "Invest": 2963336.0,
+          "Delta": 76458086.0
+        },
+        {
+          "RegionCode": 3000000,
+          "Receive": 39939589.0,
+          "Invest": 60219.0,
+          "Delta": 39879370.0
+        },
+        {
+          "RegionCode": 60000000,
+          "Receive": 109616420.0,
+          "Invest": 10984293.0,
+          "Delta": 98632127.0
+        },
+        {
+          "RegionCode": 14000000,
+          "Receive": 239985355.0,
+          "Invest": 1988.0,
+          "Delta": 239983367.0
+        },
+        {
+          "RegionCode": 15000000,
+          "Receive": 4327251.0,
+          "Invest": 518389.0,
+          "Delta": 3808862.0
+        },
+        {
+          "RegionCode": 17000000,
+          "Receive": 22304717.0,
+          "Invest": 717557.0,
+          "Delta": 21587160.0
+        },
+        {
+          "RegionCode": 29000000,
+          "Receive": 150342535.0,
+          "Invest": 5118097.0,
+          "Delta": 145224438.0
+        },
+        {
+          "RegionCode": 66000000,
+          "Receive": 1720446.0,
+          "Invest": 3428867.0,
+          "Delta": -1708421.0
+        },
+        {
+          "RegionCode": 78000000,
+          "Receive": 20997408.0,
+          "Invest": 15882048.0,
+          "Delta": 5115360.0
+        },
+        {
+          "RegionCode": 87000000,
+          "Receive": 93163749.0,
+          "Invest": 37943469.0,
+          "Delta": 55220280.0
+        },
+        {
+          "RegionCode": 11000000,
+          "Receive": 44679323.0,
+          "Invest": 20264748.0,
+          "Delta": 24414575.0
+        },
+        {
+          "RegionCode": 47000000,
+          "Receive": 5503442.0,
+          "Invest": 1814.0,
+          "Delta": 5501628.0
+        },
+        {
+          "RegionCode": 58000000,
+          "Receive": 4861636.0,
+          "Invest": 49577.0,
+          "Delta": 4812059.0
+        },
+        {
+          "RegionCode": 7000000,
+          "Receive": 72588925.0,
+          "Invest": 523.0,
+          "Delta": 72588402.0
+        },
+        {
+          "RegionCode": 89000000,
+          "Receive": 783791.0,
+          "Invest": 1401318.0,
+          "Delta": -617527.0
+        },
+        {
+          "RegionCode": 97000000,
+          "Receive": 492404.0,
+          "Invest": 8167.0,
+          "Delta": 484237.0
+        },
+        {
+          "RegionCode": 33000000,
+          "Receive": 11375460.0,
+          "Invest": 2846025.0,
+          "Delta": 8529435.0
+        },
+        {
+          "RegionCode": 22000000,
+          "Receive": 70846761.0,
+          "Invest": 5434622.0,
+          "Delta": 65412139.0
+        },
+        {
+          "RegionCode": 53000000,
+          "Receive": 48684367.0,
+          "Invest": 46563024.0,
+          "Delta": 2121343.0
+        },
+        {
+          "RegionCode": 37000000,
+          "Receive": 4907976.0,
+          "Invest": 44614.0,
+          "Delta": 4863362.0
+        },
+        {
+          "RegionCode": 81000000,
+          "Receive": 22243553.0,
+          "Invest": 5271224.0,
+          "Delta": 16972329.0
+        },
+        {
+          "RegionCode": 95000000,
+          "Receive": 22432489.0,
+          "Invest": 34681.0,
+          "Delta": 22397808.0
+        },
+        {
+          "RegionCode": 25000000,
+          "Receive": 63637706.0,
+          "Invest": 47195289.0,
+          "Delta": 16442417.0
+        },
+        {
+          "RegionCode": 50000000,
+          "Receive": 37141850.0,
+          "Invest": 5303999.0,
+          "Delta": 31837851.0
+        },
+        {
+          "RegionCode": 69000000,
+          "Receive": 58464056.0,
+          "Invest": 300647.0,
+          "Delta": 58163409.0
+        },
+        {
+          "RegionCode": 64000000,
+          "Receive": 350161057.0,
+          "Invest": 2518919.0,
+          "Delta": 347642138.0
+        },
+        {
+          "RegionCode": 18000000,
+          "Receive": 8180410.0,
+          "Invest": 9818123.0,
+          "Delta": -1637713.0
+        },
+        {
+          "RegionCode": 34000000,
+          "Receive": 3964895.0,
+          "Invest": 0.0,
+          "Delta": 3964895.0
+        },
+        {
+          "RegionCode": 54000000,
+          "Receive": 816791.0,
+          "Invest": 0.0,
+          "Delta": 816791.0
+        },
+        {
+          "RegionCode": 68000000,
+          "Receive": 874013.0,
+          "Invest": 0.0,
+          "Delta": 874013.0
+        },
+        {
+          "RegionCode": 28000000,
+          "Receive": 11698901.0,
+          "Invest": 0.0,
+          "Delta": 11698901.0
+        },
+        {
+          "RegionCode": 11100000,
+          "Receive": 136061846.0,
+          "Invest": 0.0,
+          "Delta": 136061846.0
+        },
+        {
+          "RegionCode": 27000000,
+          "Receive": 37595576.0,
+          "Invest": 0.0,
+          "Delta": 37595576.0
+        },
+        {
+          "RegionCode": 41000000,
+          "Receive": 53067785.0,
+          "Invest": 0.0,
+          "Delta": 53067785.0
+        },
+        {
+          "RegionCode": 82000000,
+          "Receive": 1371991.0,
+          "Invest": 0.0,
+          "Delta": 1371991.0
+        },
+        {
+          "RegionCode": 90000000,
+          "Receive": 414462.0,
+          "Invest": 0.0,
+          "Delta": 414462.0
+        },
+        {
+          "RegionCode": 80000000,
+          "Receive": 17800456.0,
+          "Invest": 0.0,
+          "Delta": 17800456.0
+        },
+        {
+          "RegionCode": 88000000,
+          "Receive": 46785.0,
+          "Invest": 0.0,
+          "Delta": 46785.0
+        },
+        {
+          "RegionCode": 56000000,
+          "Receive": 5394933.0,
+          "Invest": 0.0,
+          "Delta": 5394933.0
+        },
+        {
+          "RegionCode": 63000000,
+          "Receive": 11088124.0,
+          "Invest": 0.0,
+          "Delta": 11088124.0
+        },
+        {
+          "RegionCode": 73000000,
+          "Receive": 20609251.0,
+          "Invest": 0.0,
+          "Delta": 20609251.0
+        },
+        {
+          "RegionCode": 71140000,
+          "Receive": 29379699.0,
+          "Invest": 0.0,
+          "Delta": 29379699.0
+        },
+        {
+          "RegionCode": 84000000,
+          "Receive": 205522.0,
+          "Invest": 0.0,
+          "Delta": 205522.0
+        },
+        {
+          "RegionCode": 93000000,
+          "Receive": 3202150.0,
+          "Invest": 0.0,
+          "Delta": 3202150.0
+        },
+        {
+          "RegionCode": 1000000,
+          "Receive": 477262.0,
+          "Invest": 0.0,
+          "Delta": 477262.0
+        },
+        {
+          "RegionCode": 76000000,
+          "Receive": 7031542.0,
+          "Invest": 0.0,
+          "Delta": 7031542.0
+        },
+        {
+          "RegionCode": 30000000,
+          "Receive": 13722657.0,
+          "Invest": 0.0,
+          "Delta": 13722657.0
+        },
+        {
+          "RegionCode": 8000000,
+          "Receive": 24017485.0,
+          "Invest": 0.0,
+          "Delta": 24017485.0
+        },
+        {
+          "RegionCode": 10000000,
+          "Receive": 13774180.0,
+          "Invest": 0.0,
+          "Delta": 13774180.0
+        },
+        {
+          "RegionCode": 44000000,
+          "Receive": 501363.0,
+          "Invest": 0.0,
+          "Delta": 501363.0
+        },
+        {
+          "RegionCode": 99000000,
+          "Receive": 1084619.0,
+          "Invest": 0.0,
+          "Delta": 1084619.0
+        },
+        {
+          "RegionCode": 79000000,
+          "Receive": 4496321.0,
+          "Invest": 0.0,
+          "Delta": 4496321.0
+        },
+        {
+          "RegionCode": 12000000,
+          "Receive": 2753549.0,
+          "Invest": 0.0,
+          "Delta": 2753549.0
+        },
+        {
+          "RegionCode": 77000000,
+          "Receive": 40310265.0,
+          "Invest": 0.0,
+          "Delta": 40310265.0
+        }
+      ]
+    },
+    {
+      "Year": 2009,
+      "Regions": [
+        {
+          "RegionCode": 15000000,
+          "Receive": 3500686.0,
+          "Invest": 466583.0,
+          "Delta": 3034103.0
+        },
+        {
+          "RegionCode": 24000000,
+          "Receive": 8348903.0,
+          "Invest": 427313.0,
+          "Delta": 7921590.0
+        },
+        {
+          "RegionCode": 34000000,
+          "Receive": 3837434.0,
+          "Invest": 16269.0,
+          "Delta": 3821165.0
+        },
+        {
+          "RegionCode": 42000000,
+          "Receive": 33109296.0,
+          "Invest": 38609374.0,
+          "Delta": -5500078.0
+        },
+        {
+          "RegionCode": 46000000,
+          "Receive": 452814577.0,
+          "Invest": 10719807.0,
+          "Delta": 442094770.0
+        },
+        {
+          "RegionCode": 66000000,
+          "Receive": 5146310.0,
+          "Invest": 10320833.0,
+          "Delta": -5174523.0
+        },
+        {
+          "RegionCode": 45000000,
+          "Receive": 4131689333.0,
+          "Invest": 5887157652.0,
+          "Delta": -1755468319.0
+        },
+        {
+          "RegionCode": 19000000,
+          "Receive": 6915772.0,
+          "Invest": 47805339.0,
+          "Delta": -40889567.0
+        },
+        {
+          "RegionCode": 27000000,
+          "Receive": 11222423.0,
+          "Invest": 23043.0,
+          "Delta": 11199380.0
+        },
+        {
+          "RegionCode": 49000000,
+          "Receive": 37815705.0,
+          "Invest": 501296.0,
+          "Delta": 37314409.0
+        },
+        {
+          "RegionCode": 40000000,
+          "Receive": 552507063.0,
+          "Invest": 1394314131.0,
+          "Delta": -841807068.0
+        },
+        {
+          "RegionCode": 7000000,
+          "Receive": 10014465.0,
+          "Invest": 59352.0,
+          "Delta": 9955113.0
+        },
+        {
+          "RegionCode": 92000000,
+          "Receive": 213829723.0,
+          "Invest": 5978007.0,
+          "Delta": 207851716.0
+        },
+        {
+          "RegionCode": 57000000,
+          "Receive": 34558690.0,
+          "Invest": 97389706.0,
+          "Delta": -62831016.0
+        },
+        {
+          "RegionCode": 33000000,
+          "Receive": 18545010.0,
+          "Invest": 24885737.0,
+          "Delta": -6340727.0
+        },
+        {
+          "RegionCode": 36000000,
+          "Receive": 105394683.0,
+          "Invest": 15874240.0,
+          "Delta": 89520443.0
+        },
+        {
+          "RegionCode": 65000000,
+          "Receive": 22601623.0,
+          "Invest": 12541414.0,
+          "Delta": 10060209.0
+        },
+        {
+          "RegionCode": 71000000,
+          "Receive": 162506879.0,
+          "Invest": 588374.0,
+          "Delta": 161918505.0
+        },
+        {
+          "RegionCode": 71100000,
+          "Receive": 5334769.0,
+          "Invest": 571527.0,
+          "Delta": 4763242.0
+        },
+        {
+          "RegionCode": 75000000,
+          "Receive": 255763524.0,
+          "Invest": 168619763.0,
+          "Delta": 87143761.0
+        },
+        {
+          "RegionCode": 4000000,
+          "Receive": 21808502.0,
+          "Invest": 9177783.0,
+          "Delta": 12630719.0
+        },
+        {
+          "RegionCode": 25000000,
+          "Receive": 34460882.0,
+          "Invest": 38973772.0,
+          "Delta": -4512890.0
+        },
+        {
+          "RegionCode": 32000000,
+          "Receive": 60002625.0,
+          "Invest": 5477235.0,
+          "Delta": 54525390.0
+        },
+        {
+          "RegionCode": 50000000,
+          "Receive": 47690110.0,
+          "Invest": 25777811.0,
+          "Delta": 21912299.0
+        },
+        {
+          "RegionCode": 5000000,
+          "Receive": 8071626.0,
+          "Invest": 65882.0,
+          "Delta": 8005744.0
+        },
+        {
+          "RegionCode": 44000000,
+          "Receive": 479224.0,
+          "Invest": 30401.0,
+          "Delta": 448823.0
+        },
+        {
+          "RegionCode": 3000000,
+          "Receive": 57792112.0,
+          "Invest": 7465.0,
+          "Delta": 57784647.0
+        },
+        {
+          "RegionCode": 60000000,
+          "Receive": 19322079.0,
+          "Invest": 21064335.0,
+          "Delta": -1742256.0
+        },
+        {
+          "RegionCode": 17000000,
+          "Receive": 53058727.0,
+          "Invest": 5680551.0,
+          "Delta": 47378176.0
+        },
+        {
+          "RegionCode": 20000000,
+          "Receive": 19628480.0,
+          "Invest": 37244314.0,
+          "Delta": -17615834.0
+        },
+        {
+          "RegionCode": 29000000,
+          "Receive": 65683894.0,
+          "Invest": 4462858.0,
+          "Delta": 61221036.0
+        },
+        {
+          "RegionCode": 38000000,
+          "Receive": 52996.0,
+          "Invest": 28856563.0,
+          "Delta": -28803567.0
+        },
+        {
+          "RegionCode": 78000000,
+          "Receive": 13283493.0,
+          "Invest": 11056012.0,
+          "Delta": 2227481.0
+        },
+        {
+          "RegionCode": 86000000,
+          "Receive": 10527208.0,
+          "Invest": 5471.0,
+          "Delta": 10521737.0
+        },
+        {
+          "RegionCode": 87000000,
+          "Receive": 90402096.0,
+          "Invest": 2856315.0,
+          "Delta": 87545781.0
+        },
+        {
+          "RegionCode": 11000000,
+          "Receive": 58929212.0,
+          "Invest": 8852849.0,
+          "Delta": 50076363.0
+        },
+        {
+          "RegionCode": 41000000,
+          "Receive": 124714211.0,
+          "Invest": 625589.0,
+          "Delta": 124088622.0
+        },
+        {
+          "RegionCode": 47000000,
+          "Receive": 6226368.0,
+          "Invest": 126723.0,
+          "Delta": 6099645.0
+        },
+        {
+          "RegionCode": 80000000,
+          "Receive": 16924859.0,
+          "Invest": 17300.0,
+          "Delta": 16907559.0
+        },
+        {
+          "RegionCode": 89000000,
+          "Receive": 571461.0,
+          "Invest": 651544.0,
+          "Delta": -80083.0
+        },
+        {
+          "RegionCode": 97000000,
+          "Receive": 4589350.0,
+          "Invest": 4618.0,
+          "Delta": 4584732.0
+        },
+        {
+          "RegionCode": 22000000,
+          "Receive": 26297899.0,
+          "Invest": 18527547.0,
+          "Delta": 7770352.0
+        },
+        {
+          "RegionCode": 53000000,
+          "Receive": 54563866.0,
+          "Invest": 18479436.0,
+          "Delta": 36084430.0
+        },
+        {
+          "RegionCode": 81000000,
+          "Receive": 10373291.0,
+          "Invest": 6703955.0,
+          "Delta": 3669336.0
+        },
+        {
+          "RegionCode": 52000000,
+          "Receive": 48938211.0,
+          "Invest": 39271578.0,
+          "Delta": 9666633.0
+        },
+        {
+          "RegionCode": 98000000,
+          "Receive": 9212667.0,
+          "Invest": 51979638.0,
+          "Delta": -42766971.0
+        },
+        {
+          "RegionCode": 64000000,
+          "Receive": 576868211.0,
+          "Invest": 42325.0,
+          "Delta": 576825886.0
+        },
+        {
+          "RegionCode": 18000000,
+          "Receive": 22541989.0,
+          "Invest": 33671925.0,
+          "Delta": -11129936.0
+        },
+        {
+          "RegionCode": 61000000,
+          "Receive": 9016274.0,
+          "Invest": 11918.0,
+          "Delta": 9004356.0
+        },
+        {
+          "RegionCode": 14000000,
+          "Receive": 4810532.0,
+          "Invest": 0.0,
+          "Delta": 4810532.0
+        },
+        {
+          "RegionCode": 54000000,
+          "Receive": 345805.0,
+          "Invest": 0.0,
+          "Delta": 345805.0
+        },
+        {
+          "RegionCode": 68000000,
+          "Receive": 268385.0,
+          "Invest": 0.0,
+          "Delta": 268385.0
+        },
+        {
+          "RegionCode": 28000000,
+          "Receive": 22030878.0,
+          "Invest": 0.0,
+          "Delta": 22030878.0
+        },
+        {
+          "RegionCode": 70000000,
+          "Receive": 25460554.0,
+          "Invest": 0.0,
+          "Delta": 25460554.0
+        },
+        {
+          "RegionCode": 11100000,
+          "Receive": 48334862.0,
+          "Invest": 0.0,
+          "Delta": 48334862.0
+        },
+        {
+          "RegionCode": 58000000,
+          "Receive": 2322888.0,
+          "Invest": 0.0,
+          "Delta": 2322888.0
+        },
+        {
+          "RegionCode": 82000000,
+          "Receive": 1762383.0,
+          "Invest": 0.0,
+          "Delta": 1762383.0
+        },
+        {
+          "RegionCode": 90000000,
+          "Receive": 145092.0,
+          "Invest": 0.0,
+          "Delta": 145092.0
+        },
+        {
+          "RegionCode": 94000000,
+          "Receive": 8649391.0,
+          "Invest": 0.0,
+          "Delta": 8649391.0
+        },
+        {
+          "RegionCode": 56000000,
+          "Receive": 777076.0,
+          "Invest": 0.0,
+          "Delta": 777076.0
+        },
+        {
+          "RegionCode": 63000000,
+          "Receive": 19743379.0,
+          "Invest": 0.0,
+          "Delta": 19743379.0
+        },
+        {
+          "RegionCode": 73000000,
+          "Receive": 2711916.0,
+          "Invest": 0.0,
+          "Delta": 2711916.0
+        },
+        {
+          "RegionCode": 37000000,
+          "Receive": 4021694.0,
+          "Invest": 0.0,
+          "Delta": 4021694.0
+        },
+        {
+          "RegionCode": 71140000,
+          "Receive": 105592456.0,
+          "Invest": 0.0,
+          "Delta": 105592456.0
+        },
+        {
+          "RegionCode": 84000000,
+          "Receive": 39205.0,
+          "Invest": 0.0,
+          "Delta": 39205.0
+        },
+        {
+          "RegionCode": 93000000,
+          "Receive": 2284183.0,
+          "Invest": 0.0,
+          "Delta": 2284183.0
+        },
+        {
+          "RegionCode": 95000000,
+          "Receive": 3131983.0,
+          "Invest": 0.0,
+          "Delta": 3131983.0
+        },
+        {
+          "RegionCode": 1000000,
+          "Receive": 7926404.0,
+          "Invest": 0.0,
+          "Delta": 7926404.0
+        },
+        {
+          "RegionCode": 76000000,
+          "Receive": 764732.0,
+          "Invest": 0.0,
+          "Delta": 764732.0
+        },
+        {
+          "RegionCode": 69000000,
+          "Receive": 22620380.0,
+          "Invest": 0.0,
+          "Delta": 22620380.0
+        },
+        {
+          "RegionCode": 30000000,
+          "Receive": 5440466.0,
+          "Invest": 0.0,
+          "Delta": 5440466.0
+        },
+        {
+          "RegionCode": 8000000,
+          "Receive": 26508900.0,
+          "Invest": 0.0,
+          "Delta": 26508900.0
+        },
+        {
+          "RegionCode": 10000000,
+          "Receive": 21214703.0,
+          "Invest": 0.0,
+          "Delta": 21214703.0
+        },
+        {
+          "RegionCode": 99000000,
+          "Receive": 294066.0,
+          "Invest": 0.0,
+          "Delta": 294066.0
+        },
+        {
+          "RegionCode": 77000000,
+          "Receive": 4687161.0,
+          "Invest": 0.0,
+          "Delta": 4687161.0
+        },
+        {
+          "RegionCode": 79000000,
+          "Receive": 4615243.0,
+          "Invest": 0.0,
+          "Delta": 4615243.0
+        },
+        {
+          "RegionCode": 12000000,
+          "Receive": 5193319.0,
+          "Invest": 0.0,
+          "Delta": 5193319.0
+        },
+        {
+          "RegionCode": 88000000,
+          "Receive": 2841438.0,
+          "Invest": 0.0,
+          "Delta": 2841438.0
+        }
+      ]
+    },
+    {
+      "Year": 2010,
+      "Regions": [
+        {
+          "RegionCode": 14000000,
+          "Receive": 4572005.0,
+          "Invest": 218508.0,
+          "Delta": 4353497.0
+        },
+        {
+          "RegionCode": 17000000,
+          "Receive": 76545928.0,
+          "Invest": 440381.0,
+          "Delta": 76105547.0
+        },
+        {
+          "RegionCode": 20000000,
+          "Receive": 27961765.0,
+          "Invest": 27702156.0,
+          "Delta": 259609.0
+        },
+        {
+          "RegionCode": 24000000,
+          "Receive": 6760660.0,
+          "Invest": 32938.0,
+          "Delta": 6727722.0
+        },
+        {
+          "RegionCode": 29000000,
+          "Receive": 119448120.0,
+          "Invest": 5331107.0,
+          "Delta": 114117013.0
+        },
+        {
+          "RegionCode": 46000000,
+          "Receive": 620728455.0,
+          "Invest": 114507083.0,
+          "Delta": 506221372.0
+        },
+        {
+          "RegionCode": 78000000,
+          "Receive": 6339952.0,
+          "Invest": 17278508.0,
+          "Delta": -10938556.0
+        },
+        {
+          "RegionCode": 45000000,
+          "Receive": 1013093509.0,
+          "Invest": 5086483625.0,
+          "Delta": -4073390116.0
+        },
+        {
+          "RegionCode": 86000000,
+          "Receive": 8904421.0,
+          "Invest": 429150.0,
+          "Delta": 8475271.0
+        },
+        {
+          "RegionCode": 19000000,
+          "Receive": 107989647.0,
+          "Invest": 14760576.0,
+          "Delta": 93229071.0
+        },
+        {
+          "RegionCode": 27000000,
+          "Receive": 8926428.0,
+          "Invest": 9.0,
+          "Delta": 8926419.0
+        },
+        {
+          "RegionCode": 40000000,
+          "Receive": 523143914.0,
+          "Invest": 1525081347.0,
+          "Delta": -1001937433.0
+        },
+        {
+          "RegionCode": 7000000,
+          "Receive": 7240696.0,
+          "Invest": 10065.0,
+          "Delta": 7230631.0
+        },
+        {
+          "RegionCode": 80000000,
+          "Receive": 49780553.0,
+          "Invest": 2036611.0,
+          "Delta": 47743942.0
+        },
+        {
+          "RegionCode": 92000000,
+          "Receive": 414967906.0,
+          "Invest": 5178756.0,
+          "Delta": 409789150.0
+        },
+        {
+          "RegionCode": 97000000,
+          "Receive": 8610809.0,
+          "Invest": 17163205.0,
+          "Delta": -8552396.0
+        },
+        {
+          "RegionCode": 57000000,
+          "Receive": 48633364.0,
+          "Invest": 130483354.0,
+          "Delta": -81849990.0
+        },
+        {
+          "RegionCode": 33000000,
+          "Receive": 8407337.0,
+          "Invest": 39347388.0,
+          "Delta": -30940051.0
+        },
+        {
+          "RegionCode": 36000000,
+          "Receive": 117682087.0,
+          "Invest": 14583158.0,
+          "Delta": 103098929.0
+        },
+        {
+          "RegionCode": 73000000,
+          "Receive": 10282045.0,
+          "Invest": 641900.0,
+          "Delta": 9640145.0
+        },
+        {
+          "RegionCode": 65000000,
+          "Receive": 152192537.0,
+          "Invest": 34962384.0,
+          "Delta": 117230153.0
+        },
+        {
+          "RegionCode": 71000000,
+          "Receive": 40866155.0,
+          "Invest": 159761184.0,
+          "Delta": -118895029.0
+        },
+        {
+          "RegionCode": 71100000,
+          "Receive": 193876226.0,
+          "Invest": 159747543.0,
+          "Delta": 34128683.0
+        },
+        {
+          "RegionCode": 75000000,
+          "Receive": 332687469.0,
+          "Invest": 227721035.0,
+          "Delta": 104966434.0
+        },
+        {
+          "RegionCode": 4000000,
+          "Receive": 74303130.0,
+          "Invest": 25015263.0,
+          "Delta": 49287867.0
+        },
+        {
+          "RegionCode": 25000000,
+          "Receive": 4735017.0,
+          "Invest": 5076402.0,
+          "Delta": -341385.0
+        },
+        {
+          "RegionCode": 98000000,
+          "Receive": 13647067.0,
+          "Invest": 112626264.0,
+          "Delta": -98979197.0
+        },
+        {
+          "RegionCode": 5000000,
+          "Receive": 9839598.0,
+          "Invest": 1336095.0,
+          "Delta": 8503503.0
+        },
+        {
+          "RegionCode": 64000000,
+          "Receive": 498447746.0,
+          "Invest": 274853.0,
+          "Delta": 498172893.0
+        },
+        {
+          "RegionCode": 3000000,
+          "Receive": 54322448.0,
+          "Invest": 24392120.0,
+          "Delta": 29930328.0
+        },
+        {
+          "RegionCode": 60000000,
+          "Receive": 146093120.0,
+          "Invest": 22104159.0,
+          "Delta": 123988961.0
+        },
+        {
+          "RegionCode": 15000000,
+          "Receive": 2555162.0,
+          "Invest": 1188976.0,
+          "Delta": 1366186.0
+        },
+        {
+          "RegionCode": 38000000,
+          "Receive": 1966009.0,
+          "Invest": 6602428.0,
+          "Delta": -4636419.0
+        },
+        {
+          "RegionCode": 42000000,
+          "Receive": 69417402.0,
+          "Invest": 13223681.0,
+          "Delta": 56193721.0
+        },
+        {
+          "RegionCode": 54000000,
+          "Receive": 8602287.0,
+          "Invest": 10329.0,
+          "Delta": 8591958.0
+        },
+        {
+          "RegionCode": 66000000,
+          "Receive": 29263968.0,
+          "Invest": 1188496.0,
+          "Delta": 28075472.0
+        },
+        {
+          "RegionCode": 70000000,
+          "Receive": 36619231.0,
+          "Invest": 416149.0,
+          "Delta": 36203082.0
+        },
+        {
+          "RegionCode": 87000000,
+          "Receive": 68017541.0,
+          "Invest": 3253157.0,
+          "Delta": 64764384.0
+        },
+        {
+          "RegionCode": 11000000,
+          "Receive": 34004090.0,
+          "Invest": 19743523.0,
+          "Delta": 14260567.0
+        },
+        {
+          "RegionCode": 41000000,
+          "Receive": 63695614.0,
+          "Invest": 20661.0,
+          "Delta": 63674953.0
+        },
+        {
+          "RegionCode": 47000000,
+          "Receive": 9948817.0,
+          "Invest": 1122.0,
+          "Delta": 9947695.0
+        },
+        {
+          "RegionCode": 49000000,
+          "Receive": 38462736.0,
+          "Invest": 511192.0,
+          "Delta": 37951544.0
+        },
+        {
+          "RegionCode": 89000000,
+          "Receive": 4569713.0,
+          "Invest": 2390433.0,
+          "Delta": 2179280.0
+        },
+        {
+          "RegionCode": 94000000,
+          "Receive": 3670714.0,
+          "Invest": 35830744.0,
+          "Delta": -32160030.0
+        },
+        {
+          "RegionCode": 22000000,
+          "Receive": 43268639.0,
+          "Invest": 213953.0,
+          "Delta": 43054686.0
+        },
+        {
+          "RegionCode": 53000000,
+          "Receive": 64923370.0,
+          "Invest": 71629554.0,
+          "Delta": -6706184.0
+        },
+        {
+          "RegionCode": 81000000,
+          "Receive": 3481159.0,
+          "Invest": 5633174.0,
+          "Delta": -2152015.0
+        },
+        {
+          "RegionCode": 93000000,
+          "Receive": 4218608.0,
+          "Invest": 47.0,
+          "Delta": 4218561.0
+        },
+        {
+          "RegionCode": 95000000,
+          "Receive": 60692717.0,
+          "Invest": 169089.0,
+          "Delta": 60523628.0
+        },
+        {
+          "RegionCode": 32000000,
+          "Receive": 66372266.0,
+          "Invest": 42525367.0,
+          "Delta": 23846899.0
+        },
+        {
+          "RegionCode": 50000000,
+          "Receive": 43521957.0,
+          "Invest": 311897.0,
+          "Delta": 43210060.0
+        },
+        {
+          "RegionCode": 52000000,
+          "Receive": 45408912.0,
+          "Invest": 52115467.0,
+          "Delta": -6706555.0
+        },
+        {
+          "RegionCode": 18000000,
+          "Receive": 19236534.0,
+          "Invest": 12253031.0,
+          "Delta": 6983503.0
+        },
+        {
+          "RegionCode": 61000000,
+          "Receive": 10059730.0,
+          "Invest": 23177.0,
+          "Delta": 10036553.0
+        },
+        {
+          "RegionCode": 34000000,
+          "Receive": 1966916.0,
+          "Invest": 0.0,
+          "Delta": 1966916.0
+        },
+        {
+          "RegionCode": 68000000,
+          "Receive": 1549063.0,
+          "Invest": 0.0,
+          "Delta": 1549063.0
+        },
+        {
+          "RegionCode": 28000000,
+          "Receive": 7311756.0,
+          "Invest": 0.0,
+          "Delta": 7311756.0
+        },
+        {
+          "RegionCode": 11100000,
+          "Receive": 53711352.0,
+          "Invest": 0.0,
+          "Delta": 53711352.0
+        },
+        {
+          "RegionCode": 58000000,
+          "Receive": 4256026.0,
+          "Invest": 0.0,
+          "Delta": 4256026.0
+        },
+        {
+          "RegionCode": 82000000,
+          "Receive": 115416.0,
+          "Invest": 0.0,
+          "Delta": 115416.0
+        },
+        {
+          "RegionCode": 56000000,
+          "Receive": 1800252.0,
+          "Invest": 0.0,
+          "Delta": 1800252.0
+        },
+        {
+          "RegionCode": 63000000,
+          "Receive": 11141297.0,
+          "Invest": 0.0,
+          "Delta": 11141297.0
+        },
+        {
+          "RegionCode": 37000000,
+          "Receive": 1628277.0,
+          "Invest": 0.0,
+          "Delta": 1628277.0
+        },
+        {
+          "RegionCode": 71140000,
+          "Receive": 9666407.0,
+          "Invest": 0.0,
+          "Delta": 9666407.0
+        },
+        {
+          "RegionCode": 1000000,
+          "Receive": 3965980.0,
+          "Invest": 0.0,
+          "Delta": 3965980.0
+        },
+        {
+          "RegionCode": 76000000,
+          "Receive": 6600450.0,
+          "Invest": 0.0,
+          "Delta": 6600450.0
+        },
+        {
+          "RegionCode": 69000000,
+          "Receive": 23608508.0,
+          "Invest": 0.0,
+          "Delta": 23608508.0
+        },
+        {
+          "RegionCode": 30000000,
+          "Receive": 1022071.0,
+          "Invest": 0.0,
+          "Delta": 1022071.0
+        },
+        {
+          "RegionCode": 8000000,
+          "Receive": 41865212.0,
+          "Invest": 0.0,
+          "Delta": 41865212.0
+        },
+        {
+          "RegionCode": 10000000,
+          "Receive": 3801239.0,
+          "Invest": 0.0,
+          "Delta": 3801239.0
+        },
+        {
+          "RegionCode": 44000000,
+          "Receive": 29719.0,
+          "Invest": 0.0,
+          "Delta": 29719.0
+        },
+        {
+          "RegionCode": 99000000,
+          "Receive": 1616065.0,
+          "Invest": 0.0,
+          "Delta": 1616065.0
+        },
+        {
+          "RegionCode": 77000000,
+          "Receive": 2547152.0,
+          "Invest": 0.0,
+          "Delta": 2547152.0
+        },
+        {
+          "RegionCode": 79000000,
+          "Receive": 10234645.0,
+          "Invest": 0.0,
+          "Delta": 10234645.0
+        },
+        {
+          "RegionCode": 12000000,
+          "Receive": 1525750.0,
+          "Invest": 0.0,
+          "Delta": 1525750.0
+        },
+        {
+          "RegionCode": 88000000,
+          "Receive": 228969.0,
+          "Invest": 0.0,
+          "Delta": 228969.0
+        },
+        {
+          "RegionCode": 84000000,
+          "Receive": 333.0,
+          "Invest": 0.0,
+          "Delta": 333.0
+        }
+      ]
+    },
+    {
+      "Year": 2011,
+      "Regions": [
+        {
+          "RegionCode": 15000000,
+          "Receive": 1361074.0,
+          "Invest": 1855463.0,
+          "Delta": -494389.0
+        },
+        {
+          "RegionCode": 17000000,
+          "Receive": 51876456.0,
+          "Invest": 801254.0,
+          "Delta": 51075202.0
+        },
+        {
+          "RegionCode": 20000000,
+          "Receive": 79645925.0,
+          "Invest": 33377782.0,
+          "Delta": 46268143.0
+        },
+        {
+          "RegionCode": 29000000,
+          "Receive": 93237394.0,
+          "Invest": 5701571.0,
+          "Delta": 87535823.0
+        },
+        {
+          "RegionCode": 34000000,
+          "Receive": 4871105.0,
+          "Invest": 163063.0,
+          "Delta": 4708042.0
+        },
+        {
+          "RegionCode": 42000000,
+          "Receive": 12066474.0,
+          "Invest": 25675886.0,
+          "Delta": -13609412.0
+        },
+        {
+          "RegionCode": 46000000,
+          "Receive": 546024314.0,
+          "Invest": 179139246.0,
+          "Delta": 366885068.0
+        },
+        {
+          "RegionCode": 54000000,
+          "Receive": 1598006.0,
+          "Invest": 94016.0,
+          "Delta": 1503990.0
+        },
+        {
+          "RegionCode": 61000000,
+          "Receive": 10535843.0,
+          "Invest": 37560.0,
+          "Delta": 10498283.0
+        },
+        {
+          "RegionCode": 28000000,
+          "Receive": 13766704.0,
+          "Invest": 36.0,
+          "Delta": 13766668.0
+        },
+        {
+          "RegionCode": 70000000,
+          "Receive": 14468724.0,
+          "Invest": 253419.0,
+          "Delta": 14215305.0
+        },
+        {
+          "RegionCode": 78000000,
+          "Receive": 4355800.0,
+          "Invest": 24521921.0,
+          "Delta": -20166121.0
+        },
+        {
+          "RegionCode": 45000000,
+          "Receive": 11948539846.0,
+          "Invest": 7400490968.0,
+          "Delta": 4548048878.0
+        },
+        {
+          "RegionCode": 86000000,
+          "Receive": 7789382.0,
+          "Invest": 7423508.0,
+          "Delta": 365874.0
+        },
+        {
+          "RegionCode": 19000000,
+          "Receive": 110608349.0,
+          "Invest": 157889074.0,
+          "Delta": -47280725.0
+        },
+        {
+          "RegionCode": 27000000,
+          "Receive": 31034455.0,
+          "Invest": 18864353.0,
+          "Delta": 12170102.0
+        },
+        {
+          "RegionCode": 49000000,
+          "Receive": 38466257.0,
+          "Invest": 267919.0,
+          "Delta": 38198338.0
+        },
+        {
+          "RegionCode": 40000000,
+          "Receive": 593086854.0,
+          "Invest": 2388418307.0,
+          "Delta": -1795331453.0
+        },
+        {
+          "RegionCode": 91000000,
+          "Receive": 0.0,
+          "Invest": 8000.0,
+          "Delta": -8000.0
+        },
+        {
+          "RegionCode": 7000000,
+          "Receive": 55383142.0,
+          "Invest": 7894504.0,
+          "Delta": 47488638.0
+        },
+        {
+          "RegionCode": 92000000,
+          "Receive": 85683658.0,
+          "Invest": 121776.0,
+          "Delta": 85561882.0
+        },
+        {
+          "RegionCode": 97000000,
+          "Receive": 1507161.0,
+          "Invest": 1502719.0,
+          "Delta": 4442.0
+        },
+        {
+          "RegionCode": 57000000,
+          "Receive": 171013528.0,
+          "Invest": 371960976.0,
+          "Delta": -200947448.0
+        },
+        {
+          "RegionCode": 33000000,
+          "Receive": 13787288.0,
+          "Invest": 70870330.0,
+          "Delta": -57083042.0
+        },
+        {
+          "RegionCode": 36000000,
+          "Receive": 26798861.0,
+          "Invest": 18151754.0,
+          "Delta": 8647107.0
+        },
+        {
+          "RegionCode": 73000000,
+          "Receive": 4127794.0,
+          "Invest": 54983.0,
+          "Delta": 4072811.0
+        },
+        {
+          "RegionCode": 65000000,
+          "Receive": 156763874.0,
+          "Invest": 43703135.0,
+          "Delta": 113060739.0
+        },
+        {
+          "RegionCode": 71000000,
+          "Receive": 1260543878.0,
+          "Invest": 229053641.0,
+          "Delta": 1031490237.0
+        },
+        {
+          "RegionCode": 71100000,
+          "Receive": 233164900.0,
+          "Invest": 229045074.0,
+          "Delta": 4119826.0
+        },
+        {
+          "RegionCode": 75000000,
+          "Receive": 379522513.0,
+          "Invest": 311204386.0,
+          "Delta": 68318127.0
+        },
+        {
+          "RegionCode": 4000000,
+          "Receive": 127672447.0,
+          "Invest": 464502481.0,
+          "Delta": -336830034.0
+        },
+        {
+          "RegionCode": 50000000,
+          "Receive": 46457126.0,
+          "Invest": 29296520.0,
+          "Delta": 17160606.0
+        },
+        {
+          "RegionCode": 98000000,
+          "Receive": 140136384.0,
+          "Invest": 16921756.0,
+          "Delta": 123214628.0
+        },
+        {
+          "RegionCode": 5000000,
+          "Receive": 8084126.0,
+          "Invest": 4134038.0,
+          "Delta": 3950088.0
+        },
+        {
+          "RegionCode": 8000000,
+          "Receive": 11844602.0,
+          "Invest": 4449360.0,
+          "Delta": 7395242.0
+        },
+        {
+          "RegionCode": 10000000,
+          "Receive": 48295438.0,
+          "Invest": 25975997.0,
+          "Delta": 22319441.0
+        },
+        {
+          "RegionCode": 44000000,
+          "Receive": 26950131.0,
+          "Invest": 9562.0,
+          "Delta": 26940569.0
+        },
+        {
+          "RegionCode": 3000000,
+          "Receive": 76750796.0,
+          "Invest": 33243362.0,
+          "Delta": 43507434.0
+        },
+        {
+          "RegionCode": 14000000,
+          "Receive": 331555688.0,
+          "Invest": 163026457.0,
+          "Delta": 168529231.0
+        },
+        {
+          "RegionCode": 38000000,
+          "Receive": 6307382.0,
+          "Invest": 34957278.0,
+          "Delta": -28649896.0
+        },
+        {
+          "RegionCode": 66000000,
+          "Receive": 3593164.0,
+          "Invest": 26592468.0,
+          "Delta": -22999304.0
+        },
+        {
+          "RegionCode": 87000000,
+          "Receive": 34511281.0,
+          "Invest": 43314131.0,
+          "Delta": -8802850.0
+        },
+        {
+          "RegionCode": 11000000,
+          "Receive": 79286062.0,
+          "Invest": 33815941.0,
+          "Delta": 45470121.0
+        },
+        {
+          "RegionCode": 41000000,
+          "Receive": 23072456.0,
+          "Invest": 799601.0,
+          "Delta": 22272855.0
+        },
+        {
+          "RegionCode": 47000000,
+          "Receive": 2917291.0,
+          "Invest": 18545961.0,
+          "Delta": -15628670.0
+        },
+        {
+          "RegionCode": 80000000,
+          "Receive": 31356438.0,
+          "Invest": 20031.0,
+          "Delta": 31336407.0
+        },
+        {
+          "RegionCode": 89000000,
+          "Receive": 13992728.0,
+          "Invest": 1762839.0,
+          "Delta": 12229889.0
+        },
+        {
+          "RegionCode": 94000000,
+          "Receive": 4101394.0,
+          "Invest": 51141.0,
+          "Delta": 4050253.0
+        },
+        {
+          "RegionCode": 22000000,
+          "Receive": 73186462.0,
+          "Invest": 31224103.0,
+          "Delta": 41962359.0
+        },
+        {
+          "RegionCode": 53000000,
+          "Receive": 58959834.0,
+          "Invest": 61812241.0,
+          "Delta": -2852407.0
+        },
+        {
+          "RegionCode": 81000000,
+          "Receive": 3021028.0,
+          "Invest": 3670084.0,
+          "Delta": -649056.0
+        },
+        {
+          "RegionCode": 93000000,
+          "Receive": 8989115.0,
+          "Invest": 209.0,
+          "Delta": 8988906.0
+        },
+        {
+          "RegionCode": 25000000,
+          "Receive": 26271377.0,
+          "Invest": 97724378.0,
+          "Delta": -71453001.0
+        },
+        {
+          "RegionCode": 32000000,
+          "Receive": 130340709.0,
+          "Invest": 18824313.0,
+          "Delta": 111516396.0
+        },
+        {
+          "RegionCode": 52000000,
+          "Receive": 62287941.0,
+          "Invest": 7112286.0,
+          "Delta": 55175655.0
+        },
+        {
+          "RegionCode": 69000000,
+          "Receive": 40802328.0,
+          "Invest": 8950.0,
+          "Delta": 40793378.0
+        },
+        {
+          "RegionCode": 64000000,
+          "Receive": 708477631.0,
+          "Invest": 3550.0,
+          "Delta": 708474081.0
+        },
+        {
+          "RegionCode": 18000000,
+          "Receive": 42369836.0,
+          "Invest": 12593777.0,
+          "Delta": 29776059.0
+        },
+        {
+          "RegionCode": 60000000,
+          "Receive": 229572984.0,
+          "Invest": 43677004.0,
+          "Delta": 185895980.0
+        },
+        {
+          "RegionCode": 24000000,
+          "Receive": 26724087.0,
+          "Invest": 0.0,
+          "Delta": 26724087.0
+        },
+        {
+          "RegionCode": 68000000,
+          "Receive": 1215081.0,
+          "Invest": 0.0,
+          "Delta": 1215081.0
+        },
+        {
+          "RegionCode": 11100000,
+          "Receive": 55933242.0,
+          "Invest": 0.0,
+          "Delta": 55933242.0
+        },
+        {
+          "RegionCode": 58000000,
+          "Receive": 7634160.0,
+          "Invest": 0.0,
+          "Delta": 7634160.0
+        },
+        {
+          "RegionCode": 82000000,
+          "Receive": 9391942.0,
+          "Invest": 0.0,
+          "Delta": 9391942.0
+        },
+        {
+          "RegionCode": 88000000,
+          "Receive": 652383.0,
+          "Invest": 0.0,
+          "Delta": 652383.0
+        },
+        {
+          "RegionCode": 56000000,
+          "Receive": 1712315.0,
+          "Invest": 0.0,
+          "Delta": 1712315.0
+        },
+        {
+          "RegionCode": 63000000,
+          "Receive": 17201331.0,
+          "Invest": 0.0,
+          "Delta": 17201331.0
+        },
+        {
+          "RegionCode": 37000000,
+          "Receive": 6515959.0,
+          "Invest": 0.0,
+          "Delta": 6515959.0
+        },
+        {
+          "RegionCode": 71140000,
+          "Receive": 480136473.0,
+          "Invest": 0.0,
+          "Delta": 480136473.0
+        },
+        {
+          "RegionCode": 95000000,
+          "Receive": 19514993.0,
+          "Invest": 0.0,
+          "Delta": 19514993.0
+        },
+        {
+          "RegionCode": 1000000,
+          "Receive": 1867898.0,
+          "Invest": 0.0,
+          "Delta": 1867898.0
+        },
+        {
+          "RegionCode": 76000000,
+          "Receive": 14926173.0,
+          "Invest": 0.0,
+          "Delta": 14926173.0
+        },
+        {
+          "RegionCode": 30000000,
+          "Receive": 1482806.0,
+          "Invest": 0.0,
+          "Delta": 1482806.0
+        },
+        {
+          "RegionCode": 99000000,
+          "Receive": 10208554.0,
+          "Invest": 0.0,
+          "Delta": 10208554.0
+        },
+        {
+          "RegionCode": 77000000,
+          "Receive": 32926592.0,
+          "Invest": 0.0,
+          "Delta": 32926592.0
+        },
+        {
+          "RegionCode": 79000000,
+          "Receive": 11078335.0,
+          "Invest": 0.0,
+          "Delta": 11078335.0
+        },
+        {
+          "RegionCode": 12000000,
+          "Receive": 821423.0,
+          "Invest": 0.0,
+          "Delta": 821423.0
+        },
+        {
+          "RegionCode": 84000000,
+          "Receive": 8779.0,
+          "Invest": 0.0,
+          "Delta": 8779.0
+        }
+      ]
+    },
+    {
+      "Year": 2012,
+      "Regions": [
+        {
+          "RegionCode": 14000000,
+          "Receive": 4765565.0,
+          "Invest": 145206474.0,
+          "Delta": -140440909.0
+        },
+        {
+          "RegionCode": 17000000,
+          "Receive": 75383280.0,
+          "Invest": 15492040.0,
+          "Delta": 59891240.0
+        },
+        {
+          "RegionCode": 20000000,
+          "Receive": 64540640.0,
+          "Invest": 95504483.0,
+          "Delta": -30963843.0
+        },
+        {
+          "RegionCode": 24000000,
+          "Receive": 2033341.0,
+          "Invest": 1191.0,
+          "Delta": 2032150.0
+        },
+        {
+          "RegionCode": 29000000,
+          "Receive": 71613911.0,
+          "Invest": 3920273.0,
+          "Delta": 67693638.0
+        },
+        {
+          "RegionCode": 34000000,
+          "Receive": 5562055.0,
+          "Invest": 590221.0,
+          "Delta": 4971834.0
+        },
+        {
+          "RegionCode": 46000000,
+          "Receive": 462660850.0,
+          "Invest": 529067020.0,
+          "Delta": -66406170.0
+        },
+        {
+          "RegionCode": 54000000,
+          "Receive": 532976.0,
+          "Invest": 48583.0,
+          "Delta": 484393.0
+        },
+        {
+          "RegionCode": 61000000,
+          "Receive": 2693953.0,
+          "Invest": 6472.0,
+          "Delta": 2687481.0
+        },
+        {
+          "RegionCode": 66000000,
+          "Receive": 33402355.0,
+          "Invest": 19489903.0,
+          "Delta": 13912452.0
+        },
+        {
+          "RegionCode": 28000000,
+          "Receive": 21138151.0,
+          "Invest": 2655093.0,
+          "Delta": 18483058.0
+        },
+        {
+          "RegionCode": 70000000,
+          "Receive": 19190206.0,
+          "Invest": 43201.0,
+          "Delta": 19147005.0
+        },
+        {
+          "RegionCode": 45000000,
+          "Receive": 8155501032.0,
+          "Invest": 5915084760.0,
+          "Delta": 2240416272.0
+        },
+        {
+          "RegionCode": 19000000,
+          "Receive": 348151228.0,
+          "Invest": 2596076.0,
+          "Delta": 345555152.0
+        },
+        {
+          "RegionCode": 27000000,
+          "Receive": 36420050.0,
+          "Invest": 6473369.0,
+          "Delta": 29946681.0
+        },
+        {
+          "RegionCode": 41000000,
+          "Receive": 136427911.0,
+          "Invest": 5938120.0,
+          "Delta": 130489791.0
+        },
+        {
+          "RegionCode": 47000000,
+          "Receive": 2083606.0,
+          "Invest": 3542631.0,
+          "Delta": -1459025.0
+        },
+        {
+          "RegionCode": 40000000,
+          "Receive": 1076749618.0,
+          "Invest": 2643606568.0,
+          "Delta": -1566856950.0
+        },
+        {
+          "RegionCode": 91000000,
+          "Receive": 0.0,
+          "Invest": 937444.0,
+          "Delta": -937444.0
+        },
+        {
+          "RegionCode": 7000000,
+          "Receive": 46431139.0,
+          "Invest": 4451195.0,
+          "Delta": 41979944.0
+        },
+        {
+          "RegionCode": 80000000,
+          "Receive": 54139830.0,
+          "Invest": 16727237.0,
+          "Delta": 37412593.0
+        },
+        {
+          "RegionCode": 92000000,
+          "Receive": 73560860.0,
+          "Invest": 1838769.0,
+          "Delta": 71722091.0
+        },
+        {
+          "RegionCode": 57000000,
+          "Receive": 92954785.0,
+          "Invest": 484426543.0,
+          "Delta": -391471758.0
+        },
+        {
+          "RegionCode": 36000000,
+          "Receive": 237852535.0,
+          "Invest": 14397466.0,
+          "Delta": 223455069.0
+        },
+        {
+          "RegionCode": 65000000,
+          "Receive": 503025990.0,
+          "Invest": 205577535.0,
+          "Delta": 297448455.0
+        },
+        {
+          "RegionCode": 71000000,
+          "Receive": 790161190.0,
+          "Invest": 2308072736.0,
+          "Delta": -1517911546.0
+        },
+        {
+          "RegionCode": 4000000,
+          "Receive": 10102802.0,
+          "Invest": 479243779.0,
+          "Delta": -469140977.0
+        },
+        {
+          "RegionCode": 25000000,
+          "Receive": 23188762.0,
+          "Invest": 52308079.0,
+          "Delta": -29119317.0
+        },
+        {
+          "RegionCode": 50000000,
+          "Receive": 77150061.0,
+          "Invest": 38703416.0,
+          "Delta": 38446645.0
+        },
+        {
+          "RegionCode": 69000000,
+          "Receive": 23006998.0,
+          "Invest": 34833.0,
+          "Delta": 22972165.0
+        },
+        {
+          "RegionCode": 98000000,
+          "Receive": 25671498.0,
+          "Invest": 2028779.0,
+          "Delta": 23642719.0
+        },
+        {
+          "RegionCode": 10000000,
+          "Receive": 59717273.0,
+          "Invest": 36995973.0,
+          "Delta": 22721300.0
+        },
+        {
+          "RegionCode": 44000000,
+          "Receive": 7880941.0,
+          "Invest": 1898445.0,
+          "Delta": 5982496.0
+        },
+        {
+          "RegionCode": 60000000,
+          "Receive": 219800276.0,
+          "Invest": 23147339.0,
+          "Delta": 196652937.0
+        },
+        {
+          "RegionCode": 15000000,
+          "Receive": 5737514.0,
+          "Invest": 3436256.0,
+          "Delta": 2301258.0
+        },
+        {
+          "RegionCode": 38000000,
+          "Receive": 8319658.0,
+          "Invest": 5915674.0,
+          "Delta": 2403984.0
+        },
+        {
+          "RegionCode": 42000000,
+          "Receive": 103596987.0,
+          "Invest": 792218.0,
+          "Delta": 102804769.0
+        },
+        {
+          "RegionCode": 78000000,
+          "Receive": 46450843.0,
+          "Invest": 28114562.0,
+          "Delta": 18336281.0
+        },
+        {
+          "RegionCode": 86000000,
+          "Receive": 15057137.0,
+          "Invest": 150075.0,
+          "Delta": 14907062.0
+        },
+        {
+          "RegionCode": 87000000,
+          "Receive": 35788777.0,
+          "Invest": 41522314.0,
+          "Delta": -5733537.0
+        },
+        {
+          "RegionCode": 11000000,
+          "Receive": 28636200.0,
+          "Invest": 21584445.0,
+          "Delta": 7051755.0
+        },
+        {
+          "RegionCode": 49000000,
+          "Receive": 47751951.0,
+          "Invest": 556668.0,
+          "Delta": 47195283.0
+        },
+        {
+          "RegionCode": 58000000,
+          "Receive": 7879075.0,
+          "Invest": 986.0,
+          "Delta": 7878089.0
+        },
+        {
+          "RegionCode": 89000000,
+          "Receive": 15251750.0,
+          "Invest": 3293883.0,
+          "Delta": 11957867.0
+        },
+        {
+          "RegionCode": 94000000,
+          "Receive": 581265.0,
+          "Invest": 186802.0,
+          "Delta": 394463.0
+        },
+        {
+          "RegionCode": 33000000,
+          "Receive": 15089056.0,
+          "Invest": 66622635.0,
+          "Delta": -51533579.0
+        },
+        {
+          "RegionCode": 22000000,
+          "Receive": 111503614.0,
+          "Invest": 3554912.0,
+          "Delta": 107948702.0
+        },
+        {
+          "RegionCode": 53000000,
+          "Receive": 40640312.0,
+          "Invest": 43473843.0,
+          "Delta": -2833531.0
+        },
+        {
+          "RegionCode": 56000000,
+          "Receive": 9177231.0,
+          "Invest": 1598799.0,
+          "Delta": 7578432.0
+        },
+        {
+          "RegionCode": 73000000,
+          "Receive": 13117896.0,
+          "Invest": 2729027.0,
+          "Delta": 10388869.0
+        },
+        {
+          "RegionCode": 71100000,
+          "Receive": 134495727.0,
+          "Invest": 230711747.0,
+          "Delta": -96216020.0
+        },
+        {
+          "RegionCode": 75000000,
+          "Receive": 274894301.0,
+          "Invest": 240021999.0,
+          "Delta": 34872302.0
+        },
+        {
+          "RegionCode": 81000000,
+          "Receive": 2597912.0,
+          "Invest": 794224.0,
+          "Delta": 1803688.0
+        },
+        {
+          "RegionCode": 32000000,
+          "Receive": 124222607.0,
+          "Invest": 206838324.0,
+          "Delta": -82615717.0
+        },
+        {
+          "RegionCode": 52000000,
+          "Receive": 66968803.0,
+          "Invest": 69302966.0,
+          "Delta": -2334163.0
+        },
+        {
+          "RegionCode": 5000000,
+          "Receive": 41727726.0,
+          "Invest": 121711.0,
+          "Delta": 41606015.0
+        },
+        {
+          "RegionCode": 8000000,
+          "Receive": 12732322.0,
+          "Invest": 1529189.0,
+          "Delta": 11203133.0
+        },
+        {
+          "RegionCode": 64000000,
+          "Receive": 93311572.0,
+          "Invest": 759528.0,
+          "Delta": 92552044.0
+        },
+        {
+          "RegionCode": 3000000,
+          "Receive": 110800729.0,
+          "Invest": 36557316.0,
+          "Delta": 74243413.0
+        },
+        {
+          "RegionCode": 18000000,
+          "Receive": 23763157.0,
+          "Invest": 24582371.0,
+          "Delta": -819214.0
+        },
+        {
+          "RegionCode": 68000000,
+          "Receive": 186193.0,
+          "Invest": 0.0,
+          "Delta": 186193.0
+        },
+        {
+          "RegionCode": 11100000,
+          "Receive": 63454629.0,
+          "Invest": 0.0,
+          "Delta": 63454629.0
+        },
+        {
+          "RegionCode": 82000000,
+          "Receive": 2889538.0,
+          "Invest": 0.0,
+          "Delta": 2889538.0
+        },
+        {
+          "RegionCode": 88000000,
+          "Receive": 3374297.0,
+          "Invest": 0.0,
+          "Delta": 3374297.0
+        },
+        {
+          "RegionCode": 97000000,
+          "Receive": 835556.0,
+          "Invest": 0.0,
+          "Delta": 835556.0
+        },
+        {
+          "RegionCode": 63000000,
+          "Receive": 18687087.0,
+          "Invest": 0.0,
+          "Delta": 18687087.0
+        },
+        {
+          "RegionCode": 37000000,
+          "Receive": 1758407.0,
+          "Invest": 0.0,
+          "Delta": 1758407.0
+        },
+        {
+          "RegionCode": 71140000,
+          "Receive": 353676581.0,
+          "Invest": 0.0,
+          "Delta": 353676581.0
+        },
+        {
+          "RegionCode": 93000000,
+          "Receive": 33163127.0,
+          "Invest": 0.0,
+          "Delta": 33163127.0
+        },
+        {
+          "RegionCode": 95000000,
+          "Receive": 213511.0,
+          "Invest": 0.0,
+          "Delta": 213511.0
+        },
+        {
+          "RegionCode": 1000000,
+          "Receive": 272944.0,
+          "Invest": 0.0,
+          "Delta": 272944.0
+        },
+        {
+          "RegionCode": 76000000,
+          "Receive": 21642701.0,
+          "Invest": 0.0,
+          "Delta": 21642701.0
+        },
+        {
+          "RegionCode": 30000000,
+          "Receive": 585786.0,
+          "Invest": 0.0,
+          "Delta": 585786.0
+        },
+        {
+          "RegionCode": 99000000,
+          "Receive": 1817234.0,
+          "Invest": 0.0,
+          "Delta": 1817234.0
+        },
+        {
+          "RegionCode": 77000000,
+          "Receive": 9699985.0,
+          "Invest": 0.0,
+          "Delta": 9699985.0
+        },
+        {
+          "RegionCode": 79000000,
+          "Receive": 5018300.0,
+          "Invest": 0.0,
+          "Delta": 5018300.0
+        },
+        {
+          "RegionCode": 85000000,
+          "Receive": 337352.0,
+          "Invest": 0.0,
+          "Delta": 337352.0
+        },
+        {
+          "RegionCode": 12000000,
+          "Receive": 172803.0,
+          "Invest": 0.0,
+          "Delta": 172803.0
+        }
+      ]
+    },
+    {
+      "Year": 2013,
+      "Regions": [
+        {
+          "RegionCode": 14000000,
+          "Receive": 17315609.0,
+          "Invest": 183197730.0,
+          "Delta": -165882121.0
+        },
+        {
+          "RegionCode": 17000000,
+          "Receive": 54704425.0,
+          "Invest": 10989958.0,
+          "Delta": 43714467.0
+        },
+        {
+          "RegionCode": 20000000,
+          "Receive": 59995373.0,
+          "Invest": 137291220.0,
+          "Delta": -77295847.0
+        },
+        {
+          "RegionCode": 24000000,
+          "Receive": 187729.0,
+          "Invest": 208347.0,
+          "Delta": -20618.0
+        },
+        {
+          "RegionCode": 29000000,
+          "Receive": 132878076.0,
+          "Invest": 4246386.0,
+          "Delta": 128631690.0
+        },
+        {
+          "RegionCode": 34000000,
+          "Receive": 3941094.0,
+          "Invest": 25475.0,
+          "Delta": 3915619.0
+        },
+        {
+          "RegionCode": 42000000,
+          "Receive": 96624549.0,
+          "Invest": 55293419.0,
+          "Delta": 41331130.0
+        },
+        {
+          "RegionCode": 46000000,
+          "Receive": 633604481.0,
+          "Invest": 449179681.0,
+          "Delta": 184424800.0
+        },
+        {
+          "RegionCode": 61000000,
+          "Receive": 1089683.0,
+          "Invest": 13865.0,
+          "Delta": 1075818.0
+        },
+        {
+          "RegionCode": 66000000,
+          "Receive": 38192432.0,
+          "Invest": 25228744.0,
+          "Delta": 12963688.0
+        },
+        {
+          "RegionCode": 70000000,
+          "Receive": 55136181.0,
+          "Invest": 75154.0,
+          "Delta": 55061027.0
+        },
+        {
+          "RegionCode": 45000000,
+          "Receive": 9777898707.0,
+          "Invest": 12448842299.0,
+          "Delta": -2670943592.0
+        },
+        {
+          "RegionCode": 19000000,
+          "Receive": 283418942.0,
+          "Invest": 50451807.0,
+          "Delta": 232967135.0
+        },
+        {
+          "RegionCode": 27000000,
+          "Receive": 30236879.0,
+          "Invest": 16193544.0,
+          "Delta": 14043335.0
+        },
+        {
+          "RegionCode": 47000000,
+          "Receive": 3294971.0,
+          "Invest": 86168.0,
+          "Delta": 3208803.0
+        },
+        {
+          "RegionCode": 49000000,
+          "Receive": 37852856.0,
+          "Invest": 22020274.0,
+          "Delta": 15832582.0
+        },
+        {
+          "RegionCode": 58000000,
+          "Receive": 3396710.0,
+          "Invest": 14593.0,
+          "Delta": 3382117.0
+        },
+        {
+          "RegionCode": 40000000,
+          "Receive": 1343128302.0,
+          "Invest": 2159968632.0,
+          "Delta": -816840330.0
+        },
+        {
+          "RegionCode": 7000000,
+          "Receive": 6333597.0,
+          "Invest": 15622.0,
+          "Delta": 6317975.0
+        },
+        {
+          "RegionCode": 92000000,
+          "Receive": 89386301.0,
+          "Invest": 2885080.0,
+          "Delta": 86501221.0
+        },
+        {
+          "RegionCode": 57000000,
+          "Receive": 267157540.0,
+          "Invest": 619610698.0,
+          "Delta": -352453158.0
+        },
+        {
+          "RegionCode": 33000000,
+          "Receive": 9649898.0,
+          "Invest": 60647682.0,
+          "Delta": -50997784.0
+        },
+        {
+          "RegionCode": 22000000,
+          "Receive": 104364135.0,
+          "Invest": 7784833.0,
+          "Delta": 96579302.0
+        },
+        {
+          "RegionCode": 36000000,
+          "Receive": 353638706.0,
+          "Invest": 28832727.0,
+          "Delta": 324805979.0
+        },
+        {
+          "RegionCode": 65000000,
+          "Receive": 157363628.0,
+          "Invest": 99502417.0,
+          "Delta": 57861211.0
+        },
+        {
+          "RegionCode": 71000000,
+          "Receive": 214970345.0,
+          "Invest": 2268036090.0,
+          "Delta": -2053065745.0
+        },
+        {
+          "RegionCode": 71001000,
+          "Receive": 7944225.0,
+          "Invest": 12824.0,
+          "Delta": 7931401.0
+        },
+        {
+          "RegionCode": 75000000,
+          "Receive": 306075716.0,
+          "Invest": 179632165.0,
+          "Delta": 126443551.0
+        },
+        {
+          "RegionCode": 4000000,
+          "Receive": 394060443.0,
+          "Invest": 426155677.0,
+          "Delta": -32095234.0
+        },
+        {
+          "RegionCode": 25000000,
+          "Receive": 16900995.0,
+          "Invest": 33663466.0,
+          "Delta": -16762471.0
+        },
+        {
+          "RegionCode": 50000000,
+          "Receive": 85945540.0,
+          "Invest": 48327042.0,
+          "Delta": 37618498.0
+        },
+        {
+          "RegionCode": 52000000,
+          "Receive": 51072363.0,
+          "Invest": 83428185.0,
+          "Delta": -32355822.0
+        },
+        {
+          "RegionCode": 10000000,
+          "Receive": 11303884.0,
+          "Invest": 8010182.0,
+          "Delta": 3293702.0
+        },
+        {
+          "RegionCode": 44000000,
+          "Receive": 1127428.0,
+          "Invest": 26645.0,
+          "Delta": 1100783.0
+        },
+        {
+          "RegionCode": 64000000,
+          "Receive": 289866955.0,
+          "Invest": 29710.0,
+          "Delta": 289837245.0
+        },
+        {
+          "RegionCode": 3000000,
+          "Receive": 63438329.0,
+          "Invest": 38884589.0,
+          "Delta": 24553740.0
+        },
+        {
+          "RegionCode": 60000000,
+          "Receive": 202071290.0,
+          "Invest": 13504238.0,
+          "Delta": 188567052.0
+        },
+        {
+          "RegionCode": 15000000,
+          "Receive": 9896960.0,
+          "Invest": 4605265.0,
+          "Delta": 5291695.0
+        },
+        {
+          "RegionCode": 38000000,
+          "Receive": 4813520.0,
+          "Invest": 64127032.0,
+          "Delta": -59313512.0
+        },
+        {
+          "RegionCode": 54000000,
+          "Receive": 914899.0,
+          "Invest": 7228.0,
+          "Delta": 907671.0
+        },
+        {
+          "RegionCode": 28000000,
+          "Receive": 11199088.0,
+          "Invest": 18269.0,
+          "Delta": 11180819.0
+        },
+        {
+          "RegionCode": 78000000,
+          "Receive": 23562389.0,
+          "Invest": 30579733.0,
+          "Delta": -7017344.0
+        },
+        {
+          "RegionCode": 86000000,
+          "Receive": 8549881.0,
+          "Invest": 73025.0,
+          "Delta": 8476856.0
+        },
+        {
+          "RegionCode": 87000000,
+          "Receive": 33101355.0,
+          "Invest": 4218668.0,
+          "Delta": 28882687.0
+        },
+        {
+          "RegionCode": 11000000,
+          "Receive": 136822918.0,
+          "Invest": 22523462.0,
+          "Delta": 114299456.0
+        },
+        {
+          "RegionCode": 11001000,
+          "Receive": 3316873.0,
+          "Invest": 22523462.0,
+          "Delta": -19206589.0
+        },
+        {
+          "RegionCode": 41000000,
+          "Receive": 200297407.0,
+          "Invest": 495437.0,
+          "Delta": 199801970.0
+        },
+        {
+          "RegionCode": 82000000,
+          "Receive": 5394645.0,
+          "Invest": 2357008.0,
+          "Delta": 3037637.0
+        },
+        {
+          "RegionCode": 80000000,
+          "Receive": 30180178.0,
+          "Invest": 29114514.0,
+          "Delta": 1065664.0
+        },
+        {
+          "RegionCode": 88000000,
+          "Receive": 760475.0,
+          "Invest": 408548.0,
+          "Delta": 351927.0
+        },
+        {
+          "RegionCode": 89000000,
+          "Receive": 10914173.0,
+          "Invest": 576597.0,
+          "Delta": 10337576.0
+        },
+        {
+          "RegionCode": 94000000,
+          "Receive": 4866186.0,
+          "Invest": 47454.0,
+          "Delta": 4818732.0
+        },
+        {
+          "RegionCode": 53000000,
+          "Receive": 33486512.0,
+          "Invest": 25202987.0,
+          "Delta": 8283525.0
+        },
+        {
+          "RegionCode": 73000000,
+          "Receive": 2374285.0,
+          "Invest": 434795.0,
+          "Delta": 1939490.0
+        },
+        {
+          "RegionCode": 71100000,
+          "Receive": 176677920.0,
+          "Invest": 2267914348.0,
+          "Delta": -2091236428.0
+        },
+        {
+          "RegionCode": 81000000,
+          "Receive": 26089027.0,
+          "Invest": 1727956.0,
+          "Delta": 24361071.0
+        },
+        {
+          "RegionCode": 32000000,
+          "Receive": 170972299.0,
+          "Invest": 146678266.0,
+          "Delta": 24294033.0
+        },
+        {
+          "RegionCode": 98000000,
+          "Receive": 14579833.0,
+          "Invest": 47838658.0,
+          "Delta": -33258825.0
+        },
+        {
+          "RegionCode": 5000000,
+          "Receive": 171274336.0,
+          "Invest": 971759.0,
+          "Delta": 170302577.0
+        },
+        {
+          "RegionCode": 8000000,
+          "Receive": 27615449.0,
+          "Invest": 1138441.0,
+          "Delta": 26477008.0
+        },
+        {
+          "RegionCode": 18000000,
+          "Receive": 36725551.0,
+          "Invest": 38110785.0,
+          "Delta": -1385234.0
+        },
+        {
+          "RegionCode": 68000000,
+          "Receive": 16420.0,
+          "Invest": 0.0,
+          "Delta": 16420.0
+        },
+        {
+          "RegionCode": 11100000,
+          "Receive": 124245783.0,
+          "Invest": 0.0,
+          "Delta": 124245783.0
+        },
+        {
+          "RegionCode": 90000000,
+          "Receive": 143478.0,
+          "Invest": 0.0,
+          "Delta": 143478.0
+        },
+        {
+          "RegionCode": 97000000,
+          "Receive": 499491.0,
+          "Invest": 0.0,
+          "Delta": 499491.0
+        },
+        {
+          "RegionCode": 56000000,
+          "Receive": 5549607.0,
+          "Invest": 0.0,
+          "Delta": 5549607.0
+        },
+        {
+          "RegionCode": 63000000,
+          "Receive": 17144964.0,
+          "Invest": 0.0,
+          "Delta": 17144964.0
+        },
+        {
+          "RegionCode": 37000000,
+          "Receive": 362532.0,
+          "Invest": 0.0,
+          "Delta": 362532.0
+        },
+        {
+          "RegionCode": 71140000,
+          "Receive": 449348798.0,
+          "Invest": 0.0,
+          "Delta": 449348798.0
+        },
+        {
+          "RegionCode": 84000000,
+          "Receive": 33657.0,
+          "Invest": 0.0,
+          "Delta": 33657.0
+        },
+        {
+          "RegionCode": 93000000,
+          "Receive": 11790990.0,
+          "Invest": 0.0,
+          "Delta": 11790990.0
+        },
+        {
+          "RegionCode": 95000000,
+          "Receive": 12130835.0,
+          "Invest": 0.0,
+          "Delta": 12130835.0
+        },
+        {
+          "RegionCode": 1000000,
+          "Receive": 139312.0,
+          "Invest": 0.0,
+          "Delta": 139312.0
+        },
+        {
+          "RegionCode": 76000000,
+          "Receive": 13651233.0,
+          "Invest": 0.0,
+          "Delta": 13651233.0
+        },
+        {
+          "RegionCode": 69000000,
+          "Receive": 9617175.0,
+          "Invest": 0.0,
+          "Delta": 9617175.0
+        },
+        {
+          "RegionCode": 30000000,
+          "Receive": 130693.0,
+          "Invest": 0.0,
+          "Delta": 130693.0
+        },
+        {
+          "RegionCode": 99000000,
+          "Receive": 1254739.0,
+          "Invest": 0.0,
+          "Delta": 1254739.0
+        },
+        {
+          "RegionCode": 77000000,
+          "Receive": 563275.0,
+          "Invest": 0.0,
+          "Delta": 563275.0
+        },
+        {
+          "RegionCode": 79000000,
+          "Receive": 2208528.0,
+          "Invest": 0.0,
+          "Delta": 2208528.0
+        },
+        {
+          "RegionCode": 85000000,
+          "Receive": 540847.0,
+          "Invest": 0.0,
+          "Delta": 540847.0
+        },
+        {
+          "RegionCode": 12000000,
+          "Receive": 4410001.0,
+          "Invest": 0.0,
+          "Delta": 4410001.0
+        }
+      ]
+    }
+  ]
+}
